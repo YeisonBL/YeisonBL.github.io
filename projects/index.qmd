@@ -1,5 +1,5 @@
 ---
-title: "Proyectos"
+title: "Projects"
 listing:
   contents: "*.qmd"
   type: grid
@@ -8,4 +8,4 @@ listing:
   sort: "date desc"
 ---
 
-Proyectos de ciencia de datos: análisis geoespacial, automatización con IA y modelos predictivos.
+Data science projects: geospatial analysis, AI automation, and predictive modeling.

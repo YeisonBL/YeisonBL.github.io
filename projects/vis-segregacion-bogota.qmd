@@ -1,76 +1,68 @@
 ---
-title: "Segregación de Vivienda VIS en Bogotá"
-description: "Análisis geoespacial y estadístico sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá."
+title: "VIS Housing Segregation in Bogotá"
+description: "Geospatial and statistical analysis of how Social Interest Housing contributes to urban segregation in Bogotá."
 date: "2026-01-01"
-categories: [Geoespacial, Estadística, Python, Política Pública]
-image: ../assets/vis-bogota-preview.png   # ← reemplaza con una imagen del proyecto
+categories: [Geospatial, Statistics, Python, Public Policy]
+image: ../assets/vis-bogota-preview.svg
 ---
 
-## Resumen
+## Summary
 
-<!-- 2-3 oraciones que expliquen el proyecto a alguien que no sabe nada del tema -->
-La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna para hogares de bajos ingresos en Colombia. Sin embargo, la concentración de este tipo de proyectos en zonas periféricas de Bogotá puede reforzar patrones de segregación socioespacial. Este análisis cuantifica ese efecto usando datos del registro de transacciones inmobiliarias (SNR) y métodos estadísticos espaciales.
-
----
-
-## Pregunta de investigación
-
-> ¿La localización de proyectos VIS en Bogotá amplifica la segregación socioespacial, o contribuye a reducirla?
+Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods.
 
 ---
 
-## Datos
+## Research Question
 
-| Fuente | Descripción |
+> Does the location of VIS projects in Bogotá amplify socio-spatial segregation, or does it help reduce it?
+
+---
+
+## Data
+
+| Source | Description |
 |--------|-------------|
-| SNR | Transacciones inmobiliarias georreferenciadas |
-| DANE | Datos socioeconómicos por UPZ |
-| Catastro Bogotá | Polígonos de barrios y UPZ |
+| SNR | Georeferenced real estate transactions |
+| DANE | Socioeconomic data by UPZ |
+| Catastro Bogotá | Neighborhood and UPZ polygons |
 
 ---
 
-## Metodología
+## Methodology
 
-<!-- Describe los métodos que usaste. Algunos ejemplos: -->
-
-1. **Limpieza y georreferenciación** de transacciones del SNR con Python (pandas, geopandas)
-2. **Índices de segregación** (índice de disimilitud, índice de exposición)
-3. **Análisis espacial** — autocorrelación espacial (Moran's I), mapas de calor
-4. **Visualización** — mapas interactivos con Kepler.gl
+1. **Cleaning and georeferencing** of SNR transactions with Python (pandas, geopandas)
+2. **Segregation indices** (dissimilarity index, exposure index)
+3. **Spatial analysis** — spatial autocorrelation (Moran's I), heat maps
+4. **Visualization** — interactive maps with Kepler.gl
 
 ---
 
-## Resultados principales
+## Main Results
 
-<!-- 🔴 PENDIENTE: completa esto cuando tengas los resultados -->
+> ⚠️ *This section is under construction. Add the key findings here.*
 
-> ⚠️ *Esta sección está en construcción. Agrega aquí los hallazgos más importantes.*
-
-- Hallazgo 1: ...
-- Hallazgo 2: ...
-- Hallazgo 3: ...
+- Finding 1: ...
+- Finding 2: ...
+- Finding 3: ...
 
 ---
 
-## Visualizaciones
+## Visualizations
 
-<!-- Inserta aquí imágenes o mapas. Ejemplo: -->
-<!-- ![Mapa de concentración VIS por UPZ](../assets/vis-mapa.png) -->
-
-> ⚠️ *Agrega aquí capturas de los mapas de Kepler.gl u otras visualizaciones.*
+> ⚠️ *Add screenshots of Kepler.gl maps or other visualizations here.*
 
 ---
 
-## Código y reproducibilidad
+## Code & Reproducibility
 
-El análisis completo está disponible en GitHub:
+Full analysis available on GitHub:
 
 🔗 [github.com/YeisonBL/vis-segregacion-bogota](https://github.com/YeisonBL/vis-segregacion-bogota)
 
 ---
 
-## Publicación
+## Publication
 
-Este trabajo fue desarrollado como parte de la **Especialización en Estadística, Universidad Nacional de Colombia (2025–2026)** y está disponible como preprint.
+This work was developed as part of the **Statistics Specialization, Universidad Nacional de Colombia (2025–2026)** and is available as a preprint.
 
-🔗 *Link al preprint (próximamente)*
+🔗 *Preprint link (coming soon)*

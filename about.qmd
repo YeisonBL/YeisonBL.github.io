@@ -1,76 +1,76 @@
 ---
-title: "Sobre mí"
+title: "About"
 ---
 
 ## Yeison Armando Buitrago López
 
-Soy Científico de Datos con base en Bogotá, Colombia. Trabajo en la intersección entre estadística, machine learning y problemas de negocio reales. Actualmente en **Habi**, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano.
+I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at **Habi**, where I design price elasticity models and A/B experiments for the Colombian real estate market.
 
-Me formé como **Matemático en la Universidad Distrital FJC** (matrícula de honor en cuatro semestres) y actualmente curso una **Especialización en Estadística en la Universidad Nacional de Colombia**, donde escribí un preprint sobre segregación urbana en Bogotá.
-
----
-
-## Experiencia
-
-**Habi Colombia** — *Científico de Datos Mid*
-`Ago 2025 – Actualidad`
-
-- Diseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas.
-- A/B testing bayesiano con diseño experimental propio para incrementar margen de contribución.
-- Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.
+I hold a degree in **Mathematics from Universidad Distrital FJC** (honor roll for four semesters) and am completing a **Statistics Specialization at Universidad Nacional de Colombia**, where I wrote a preprint on urban segregation in Bogotá.
 
 ---
 
-**Habi Colombia** — *Científico de Datos Junior*
-`Mar 2024 – Ago 2025`
+## Experience
 
-- Automatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP).
-- Modelos predictivos con datos inmobiliarios para originación de crédito bancario.
-- Introducción de experimentos A/B como práctica organizacional; comunicación a stakeholders vía dashboards.
+**Habi Colombia** — *Mid Data Scientist*
+`Aug 2025 – Present`
+
+- Design and deployment of price elasticity models across the offer portfolio.
+- Bayesian A/B testing with custom experimental design to increase contribution margin.
+- Redesign of reference price data sources to improve client value proposition.
 
 ---
 
-**Frubana Colombia** — *Especialista en Planificación de Demanda*
+**Habi Colombia** — *Junior Data Scientist*
+`Mar 2024 – Aug 2025`
+
+- Automation and production deployment of geospatial pipelines in Python and BigQuery (GCP).
+- Predictive models on real estate data for bank credit origination.
+- Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.
+
+---
+
+**Frubana Colombia** — *Demand Planning Specialist*
 `Nov 2022 – Feb 2024`
 
-- Modelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL).
-- Integración y procesamiento de datos de múltiples fuentes operativas y comerciales.
-- Herramienta interna para analistas de supply chain para detección de comportamientos atípicos.
+- Demand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL).
+- Integration and processing of data from multiple operational and commercial sources.
+- Internal tool for supply chain analysts to detect atypical demand patterns.
 
 ---
 
-## Educación
+## Education
 
-**Universidad Nacional de Colombia** — Especialización en Estadística
+**Universidad Nacional de Colombia** — Statistics Specialization
 `2025 – 2026` · Bogotá
 
-**Universidad Distrital FJC** — Matemático
-`2017 – 2022` · Bogotá · Matrícula de honor (4 semestres, Top 10)
+**Universidad Distrital FJC** — B.Sc. Mathematics
+`2017 – 2022` · Bogotá · Honor roll (4 semesters, Top 10%)
 
 ---
 
-## Skills técnicos
+## Technical Skills
 
-| Área | Herramientas |
-|------|-------------|
-| **Lenguajes** | Python (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery |
-| **ML & Estadística** | Modelos predictivos, A/B testing bayesiano, análisis de elasticidades, estadística inferencial |
-| **ETL & Cloud** | Pipelines Python/SQL, GCP, BigQuery, automatización de flujos de datos |
+| Area | Tools |
+|------|-------|
+| **Languages** | Python (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery |
+| **ML & Statistics** | Predictive models, Bayesian A/B testing, price elasticity analysis, inferential statistics |
+| **ETL & Cloud** | Python/SQL pipelines, GCP, BigQuery, data workflow automation |
 | **BI & Viz** | Redash, Streamlit, Kepler.gl |
-| **Herramientas** | Git, GitHub |
-| **Idiomas** | Español (nativo), Inglés (intermedio) |
+| **Tools** | Git, GitHub |
+| **Languages** | Spanish (native), English (intermediate) |
 
 ---
 
-## Certificaciones
+## Certifications
 
-- **Deep Learning Specialization** — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow
-- Introductorio en Ciencia de Datos — Coursera
-- Divulgación Científica — Sociedad Matemática Mexicana (2021)
+- **Deep Learning Specialization** — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow
+- Introduction to Data Science — Coursera
+- Science Communication — Sociedad Matemática Mexicana (2021)
 
 ---
 
-## Contacto
+## Contact
 
 📧 [buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com)
 💼 [linkedin.com/in/yeisonabl](https://linkedin.com/in/yeisonabl)

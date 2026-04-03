@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2025-12-01">
-<meta name="description" content="Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.">
+<meta name="description" content="A tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours.">
 
-<title>Actualizador de CV con IA – Yeison Buitrago · Data Scientist</title>
+<title>AI-Powered CV Updater – Yeison Buitrago · Data Scientist</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -326,11 +326,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Actualizador de CV con IA</h1>
+<h1 class="title">AI-Powered CV Updater</h1>
   <div class="quarto-categories">
     <div class="quarto-category">NLP</div>
     <div class="quarto-category">LLMs</div>
-    <div class="quarto-category">Automatización</div>
+    <div class="quarto-category">Automation</div>
     <div class="quarto-category">Python</div>
     <div class="quarto-category">LaTeX</div>
   </div>
@@ -338,7 +338,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div>
   <div class="description">
-    Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.
+    A tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours.
   </div>
 </div>
 
@@ -361,102 +361,102 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="el-problema" class="level2">
-<h2 class="anchored" data-anchor-id="el-problema">El problema</h2>
-<p>Adaptar el CV a cada oferta de trabajo es tedioso pero importante: los sistemas ATS y los reclutadores priorizan candidatos cuyo perfil refleja exactamente las palabras clave de la vacante. Este proceso manual puede tomar 30–60 minutos por aplicación.</p>
+<section id="the-problem" class="level2">
+<h2 class="anchored" data-anchor-id="the-problem">The Problem</h2>
+<p>Tailoring a CV to each job posting is tedious but important: ATS systems and recruiters prioritize candidates whose profile closely mirrors the keywords in the job description. This manual process can take 30–60 minutes per application.</p>
 <hr>
 </section>
-<section id="la-solución" class="level2">
-<h2 class="anchored" data-anchor-id="la-solución">La solución</h2>
-<p>Una herramienta en Python que:</p>
+<section id="the-solution" class="level2">
+<h2 class="anchored" data-anchor-id="the-solution">The Solution</h2>
+<p>A Python tool that:</p>
 <ol type="1">
-<li><strong>Lee la oferta de empleo</strong> (texto pegado o URL)</li>
-<li><strong>Analiza el CV base</strong> en formato LaTeX</li>
-<li><strong>Llama a un LLM</strong> para identificar qué experiencias y habilidades resaltar</li>
-<li><strong>Reescribe las secciones relevantes</strong> del CV y genera un nuevo <code>.tex</code> listo para compilar</li>
+<li><strong>Reads the job posting</strong> (pasted text or URL)</li>
+<li><strong>Analyzes the base CV</strong> in LaTeX format</li>
+<li><strong>Calls an LLM</strong> to identify which experiences and skills to highlight</li>
+<li><strong>Rewrites the relevant sections</strong> of the CV and generates a new <code>.tex</code> file ready to compile</li>
 </ol>
 <hr>
 </section>
 <section id="demo" class="level2">
 <h2 class="anchored" data-anchor-id="demo">Demo</h2>
-<!-- 🔴 PENDIENTE: agrega un GIF o captura de pantalla -->
 <blockquote class="blockquote">
-<p>⚠️ <em>Agrega aquí un GIF o video mostrando el flujo: oferta de entrada → CV generado.</em></p>
+<p>⚠️ <em>Add a GIF or screenshot showing the flow: job input → generated CV.</em></p>
 </blockquote>
 <hr>
 </section>
-<section id="stack-técnico" class="level2">
-<h2 class="anchored" data-anchor-id="stack-técnico">Stack técnico</h2>
+<section id="tech-stack" class="level2">
+<h2 class="anchored" data-anchor-id="tech-stack">Tech Stack</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Componente</th>
-<th>Tecnología</th>
+<th>Component</th>
+<th>Technology</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Lenguaje</td>
+<td>Language</td>
 <td>Python</td>
 </tr>
 <tr class="even">
 <td>LLM</td>
-<td><!-- API que usaste: OpenAI, Anthropic, Groq, etc. --></td>
+<td><!-- API used: OpenAI, Anthropic, Groq, etc. --></td>
 </tr>
 <tr class="odd">
-<td>Formato de salida</td>
+<td>Output format</td>
 <td>LaTeX</td>
 </tr>
 <tr class="even">
-<td>Interfaz</td>
-<td><!-- CLI / Streamlit / otro --></td>
+<td>Interface</td>
+<td><!-- CLI / Streamlit / other --></td>
 </tr>
 </tbody>
 </table>
 <hr>
 </section>
-<section id="arquitectura" class="level2">
-<h2 class="anchored" data-anchor-id="arquitectura">Arquitectura</h2>
-<pre><code>oferta_empleo.txt
+<section id="architecture" class="level2">
+<h2 class="anchored" data-anchor-id="architecture">Architecture</h2>
+<pre><code>job_posting.txt
        │
        ▼
-  [Parser de oferta]  ──→  keywords, skills requeridos
+  [Job parser]  ──→  keywords, required skills
        │
        ▼
-  [LLM Prompt]  ──→  instrucción + CV base + keywords
+  [LLM Prompt]  ──→  instruction + base CV + keywords
        │
        ▼
-  [Post-proceso]  ──→  reemplaza secciones en el .tex
+  [Post-processing]  ──→  replaces sections in the .tex
        │
        ▼
-  cv_adaptado.tex  ──→  compilar con pdflatex</code></pre>
+  cv_adapted.tex  ──→  compile with pdflatex</code></pre>
 <hr>
 </section>
-<section id="ejemplo-de-uso" class="level2">
-<h2 class="anchored" data-anchor-id="ejemplo-de-uso">Ejemplo de uso</h2>
-<!-- 🔴 PENDIENTE: agrega un ejemplo real -->
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> actualizar_cv.py <span class="at">--oferta</span> oferta.txt <span class="at">--cv</span> cv_base.tex <span class="at">--output</span> cv_adaptado.tex</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<section id="usage-example" class="level2">
+<h2 class="anchored" data-anchor-id="usage-example">Usage Example</h2>
+<blockquote class="blockquote">
+<p>⚠️ <em>Add a real example here.</em></p>
+</blockquote>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python</span> update_cv.py <span class="at">--job</span> posting.txt <span class="at">--cv</span> base_cv.tex <span class="at">--output</span> adapted_cv.tex</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <hr>
 </section>
-<section id="resultados" class="level2">
-<h2 class="anchored" data-anchor-id="resultados">Resultados</h2>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
 <ul>
-<li>⏱️ Tiempo de adaptación: de ~45 min a ~30 segundos</li>
-<li>✅ Mantiene el formato y estilo LaTeX original</li>
-<li>🎯 Identifica automáticamente las secciones más relevantes para cada oferta</li>
+<li>⏱️ Adaptation time: from ~45 min to ~30 seconds</li>
+<li>✅ Preserves the original LaTeX format and style</li>
+<li>🎯 Automatically identifies the most relevant sections for each posting</li>
 </ul>
 <hr>
 </section>
-<section id="código" class="level2">
-<h2 class="anchored" data-anchor-id="código">Código</h2>
+<section id="code" class="level2">
+<h2 class="anchored" data-anchor-id="code">Code</h2>
 <p>🔗 <a href="https://github.com/YeisonBL/cv-actualizador-ia">github.com/YeisonBL/cv-actualizador-ia</a></p>
 <hr>
 </section>
-<section id="aprendizajes" class="level2">
-<h2 class="anchored" data-anchor-id="aprendizajes">Aprendizajes</h2>
-<!-- Reflexión honesta sobre qué aprendiste, qué mejorarías -->
+<section id="learnings" class="level2">
+<h2 class="anchored" data-anchor-id="learnings">Learnings</h2>
 <blockquote class="blockquote">
-<p>⚠️ <em>Pendiente: agrega una reflexión sobre el proceso, limitaciones, o próximos pasos.</em></p>
+<p>⚠️ <em>Add a reflection on the process, limitations, or next steps.</em></p>
 </blockquote>
 
 

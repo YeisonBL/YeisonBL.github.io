@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2026-01-01">
-<meta name="description" content="Análisis geoespacial y estadístico sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá.">
+<meta name="description" content="Geospatial and statistical analysis of how Social Interest Housing contributes to urban segregation in Bogotá.">
 
-<title>Segregación de Vivienda VIS en Bogotá – Yeison Buitrago · Data Scientist</title>
+<title>VIS Housing Segregation in Bogotá – Yeison Buitrago · Data Scientist</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -291,18 +291,18 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Segregación de Vivienda VIS en Bogotá</h1>
+<h1 class="title">VIS Housing Segregation in Bogotá</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Geoespacial</div>
-    <div class="quarto-category">Estadística</div>
+    <div class="quarto-category">Geospatial</div>
+    <div class="quarto-category">Statistics</div>
     <div class="quarto-category">Python</div>
-    <div class="quarto-category">Política Pública</div>
+    <div class="quarto-category">Public Policy</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Análisis geoespacial y estadístico sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá.
+    Geospatial and statistical analysis of how Social Interest Housing contributes to urban segregation in Bogotá.
   </div>
 </div>
 
@@ -325,88 +325,83 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="resumen" class="level2">
-<h2 class="anchored" data-anchor-id="resumen">Resumen</h2>
-<!-- 2-3 oraciones que expliquen el proyecto a alguien que no sabe nada del tema -->
-<p>La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna para hogares de bajos ingresos en Colombia. Sin embargo, la concentración de este tipo de proyectos en zonas periféricas de Bogotá puede reforzar patrones de segregación socioespacial. Este análisis cuantifica ese efecto usando datos del registro de transacciones inmobiliarias (SNR) y métodos estadísticos espaciales.</p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods.</p>
 <hr>
 </section>
-<section id="pregunta-de-investigación" class="level2">
-<h2 class="anchored" data-anchor-id="pregunta-de-investigación">Pregunta de investigación</h2>
+<section id="research-question" class="level2">
+<h2 class="anchored" data-anchor-id="research-question">Research Question</h2>
 <blockquote class="blockquote">
-<p>¿La localización de proyectos VIS en Bogotá amplifica la segregación socioespacial, o contribuye a reducirla?</p>
+<p>Does the location of VIS projects in Bogotá amplify socio-spatial segregation, or does it help reduce it?</p>
 </blockquote>
 <hr>
 </section>
-<section id="datos" class="level2">
-<h2 class="anchored" data-anchor-id="datos">Datos</h2>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Fuente</th>
-<th>Descripción</th>
+<th>Source</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>SNR</td>
-<td>Transacciones inmobiliarias georreferenciadas</td>
+<td>Georeferenced real estate transactions</td>
 </tr>
 <tr class="even">
 <td>DANE</td>
-<td>Datos socioeconómicos por UPZ</td>
+<td>Socioeconomic data by UPZ</td>
 </tr>
 <tr class="odd">
 <td>Catastro Bogotá</td>
-<td>Polígonos de barrios y UPZ</td>
+<td>Neighborhood and UPZ polygons</td>
 </tr>
 </tbody>
 </table>
 <hr>
 </section>
-<section id="metodología" class="level2">
-<h2 class="anchored" data-anchor-id="metodología">Metodología</h2>
-<!-- Describe los métodos que usaste. Algunos ejemplos: -->
+<section id="methodology" class="level2">
+<h2 class="anchored" data-anchor-id="methodology">Methodology</h2>
 <ol type="1">
-<li><strong>Limpieza y georreferenciación</strong> de transacciones del SNR con Python (pandas, geopandas)</li>
-<li><strong>Índices de segregación</strong> (índice de disimilitud, índice de exposición)</li>
-<li><strong>Análisis espacial</strong> — autocorrelación espacial (Moran’s I), mapas de calor</li>
-<li><strong>Visualización</strong> — mapas interactivos con Kepler.gl</li>
+<li><strong>Cleaning and georeferencing</strong> of SNR transactions with Python (pandas, geopandas)</li>
+<li><strong>Segregation indices</strong> (dissimilarity index, exposure index)</li>
+<li><strong>Spatial analysis</strong> — spatial autocorrelation (Moran’s I), heat maps</li>
+<li><strong>Visualization</strong> — interactive maps with Kepler.gl</li>
 </ol>
 <hr>
 </section>
-<section id="resultados-principales" class="level2">
-<h2 class="anchored" data-anchor-id="resultados-principales">Resultados principales</h2>
-<!-- 🔴 PENDIENTE: completa esto cuando tengas los resultados -->
+<section id="main-results" class="level2">
+<h2 class="anchored" data-anchor-id="main-results">Main Results</h2>
 <blockquote class="blockquote">
-<p>⚠️ <em>Esta sección está en construcción. Agrega aquí los hallazgos más importantes.</em></p>
+<p>⚠️ <em>This section is under construction. Add the key findings here.</em></p>
 </blockquote>
 <ul>
-<li>Hallazgo 1: …</li>
-<li>Hallazgo 2: …</li>
-<li>Hallazgo 3: …</li>
+<li>Finding 1: …</li>
+<li>Finding 2: …</li>
+<li>Finding 3: …</li>
 </ul>
 <hr>
 </section>
-<section id="visualizaciones" class="level2">
-<h2 class="anchored" data-anchor-id="visualizaciones">Visualizaciones</h2>
-<!-- Inserta aquí imágenes o mapas. Ejemplo: -->
-<!-- ![Mapa de concentración VIS por UPZ](../assets/vis-mapa.png) -->
+<section id="visualizations" class="level2">
+<h2 class="anchored" data-anchor-id="visualizations">Visualizations</h2>
 <blockquote class="blockquote">
-<p>⚠️ <em>Agrega aquí capturas de los mapas de Kepler.gl u otras visualizaciones.</em></p>
+<p>⚠️ <em>Add screenshots of Kepler.gl maps or other visualizations here.</em></p>
 </blockquote>
 <hr>
 </section>
-<section id="código-y-reproducibilidad" class="level2">
-<h2 class="anchored" data-anchor-id="código-y-reproducibilidad">Código y reproducibilidad</h2>
-<p>El análisis completo está disponible en GitHub:</p>
+<section id="code-reproducibility" class="level2">
+<h2 class="anchored" data-anchor-id="code-reproducibility">Code &amp; Reproducibility</h2>
+<p>Full analysis available on GitHub:</p>
 <p>🔗 <a href="https://github.com/YeisonBL/vis-segregacion-bogota">github.com/YeisonBL/vis-segregacion-bogota</a></p>
 <hr>
 </section>
-<section id="publicación" class="level2">
-<h2 class="anchored" data-anchor-id="publicación">Publicación</h2>
-<p>Este trabajo fue desarrollado como parte de la <strong>Especialización en Estadística, Universidad Nacional de Colombia (2025–2026)</strong> y está disponible como preprint.</p>
-<p>🔗 <em>Link al preprint (próximamente)</em></p>
+<section id="publication" class="level2">
+<h2 class="anchored" data-anchor-id="publication">Publication</h2>
+<p>This work was developed as part of the <strong>Statistics Specialization, Universidad Nacional de Colombia (2025–2026)</strong> and is available as a preprint.</p>
+<p>🔗 <em>Preprint link (coming soon)</em></p>
 
 
 </section>

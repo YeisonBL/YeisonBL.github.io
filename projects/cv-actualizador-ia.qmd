@@ -1,93 +1,89 @@
 ---
-title: "Actualizador de CV con IA"
-description: "Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas."
+title: "AI-Powered CV Updater"
+description: "A tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours."
 date: "2025-12-01"
-categories: [NLP, LLMs, Automatización, Python, LaTeX]
-image: ../assets/cv-updater-preview.png   # ← reemplaza con una imagen/demo
+categories: [NLP, LLMs, Automation, Python, LaTeX]
+image: ../assets/cv-updater-preview.svg
 ---
 
-## El problema
+## The Problem
 
-Adaptar el CV a cada oferta de trabajo es tedioso pero importante: los sistemas ATS y los reclutadores priorizan candidatos cuyo perfil refleja exactamente las palabras clave de la vacante. Este proceso manual puede tomar 30–60 minutos por aplicación.
+Tailoring a CV to each job posting is tedious but important: ATS systems and recruiters prioritize candidates whose profile closely mirrors the keywords in the job description. This manual process can take 30–60 minutes per application.
 
 ---
 
-## La solución
+## The Solution
 
-Una herramienta en Python que:
+A Python tool that:
 
-1. **Lee la oferta de empleo** (texto pegado o URL)
-2. **Analiza el CV base** en formato LaTeX
-3. **Llama a un LLM** para identificar qué experiencias y habilidades resaltar
-4. **Reescribe las secciones relevantes** del CV y genera un nuevo `.tex` listo para compilar
+1. **Reads the job posting** (pasted text or URL)
+2. **Analyzes the base CV** in LaTeX format
+3. **Calls an LLM** to identify which experiences and skills to highlight
+4. **Rewrites the relevant sections** of the CV and generates a new `.tex` file ready to compile
 
 ---
 
 ## Demo
 
-<!-- 🔴 PENDIENTE: agrega un GIF o captura de pantalla -->
-
-> ⚠️ *Agrega aquí un GIF o video mostrando el flujo: oferta de entrada → CV generado.*
+> ⚠️ *Add a GIF or screenshot showing the flow: job input → generated CV.*
 
 ---
 
-## Stack técnico
+## Tech Stack
 
-| Componente | Tecnología |
+| Component | Technology |
 |-----------|-----------|
-| Lenguaje | Python |
-| LLM | <!-- API que usaste: OpenAI, Anthropic, Groq, etc. --> |
-| Formato de salida | LaTeX |
-| Interfaz | <!-- CLI / Streamlit / otro --> |
+| Language | Python |
+| LLM | <!-- API used: OpenAI, Anthropic, Groq, etc. --> |
+| Output format | LaTeX |
+| Interface | <!-- CLI / Streamlit / other --> |
 
 ---
 
-## Arquitectura
+## Architecture
 
 ```
-oferta_empleo.txt
+job_posting.txt
        │
        ▼
-  [Parser de oferta]  ──→  keywords, skills requeridos
+  [Job parser]  ──→  keywords, required skills
        │
        ▼
-  [LLM Prompt]  ──→  instrucción + CV base + keywords
+  [LLM Prompt]  ──→  instruction + base CV + keywords
        │
        ▼
-  [Post-proceso]  ──→  reemplaza secciones en el .tex
+  [Post-processing]  ──→  replaces sections in the .tex
        │
        ▼
-  cv_adaptado.tex  ──→  compilar con pdflatex
+  cv_adapted.tex  ──→  compile with pdflatex
 ```
 
 ---
 
-## Ejemplo de uso
+## Usage Example
 
-<!-- 🔴 PENDIENTE: agrega un ejemplo real -->
+> ⚠️ *Add a real example here.*
 
 ```bash
-python actualizar_cv.py --oferta oferta.txt --cv cv_base.tex --output cv_adaptado.tex
+python update_cv.py --job posting.txt --cv base_cv.tex --output adapted_cv.tex
 ```
 
 ---
 
-## Resultados
+## Results
 
-- ⏱️ Tiempo de adaptación: de ~45 min a ~30 segundos
-- ✅ Mantiene el formato y estilo LaTeX original
-- 🎯 Identifica automáticamente las secciones más relevantes para cada oferta
+- ⏱️ Adaptation time: from ~45 min to ~30 seconds
+- ✅ Preserves the original LaTeX format and style
+- 🎯 Automatically identifies the most relevant sections for each posting
 
 ---
 
-## Código
+## Code
 
 🔗 [github.com/YeisonBL/cv-actualizador-ia](https://github.com/YeisonBL/cv-actualizador-ia)
 
 ---
 
-## Aprendizajes
+## Learnings
 
-<!-- Reflexión honesta sobre qué aprendiste, qué mejorarías -->
-
-> ⚠️ *Pendiente: agrega una reflexión sobre el proceso, limitaciones, o próximos pasos.*
+> ⚠️ *Add a reflection on the process, limitations, or next steps.*
