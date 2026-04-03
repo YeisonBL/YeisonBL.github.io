@@ -4,7 +4,7 @@
     "href": "index-es.html",
     "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "Científico de Datos\nHabi Colombia · Especialización en Estadística, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nSoy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como Matemático en la Universidad Distrital FJC y curso una Especialización en Estadística en la Universidad Nacional de Colombia."
+    "text": "Científico de Datos\nHabi Colombia · Especialización en Estadística, UNAL\n\n✉ Email ⌥ GitHub in LinkedIn\nSoy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como Matemático en la Universidad Distrital FJC y curso una Especialización en Estadística en la Universidad Nacional de Colombia."
   },
   {
     "objectID": "index-es.html#experiencia-profesional",
@@ -32,21 +32,21 @@
     "href": "index-es.html#competencias-técnicas",
     "title": "Yeison Armando Buitrago López",
     "section": "Competencias técnicas",
-    "text": "Competencias técnicas\n\n\n\n\n\n\n\nÁrea\nHerramientas\n\n\n\n\nLenguajes\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Estadística\nModelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial\n\n\nETL & Cloud\nPipelines Python/SQL, GCP, BigQuery\n\n\nVisualización\nKepler.gl, Streamlit, Redash\n\n\nIdiomas\nEspañol (nativo), Inglés (intermedio)"
+    "text": "Competencias técnicas\n\n  \n    Lenguajes\n    Python\n    SQL\n    BigQuery\n  \n  \n    ML & Stats\n    Modelos predictivos\n    A/B testing bayesiano\n    Elasticidades\n    Estadística inferencial\n  \n  \n    Librerías\n    pandas\n    scikit-learn\n    geopandas\n    seaborn\n    Optuna\n  \n  \n    ETL & Cloud\n    GCP\n    BigQuery\n    Pipelines Python\n  \n  \n    Visualización\n    Kepler.gl\n    Streamlit\n    Redash\n  \n  \n    Herramientas\n    Git\n    GitHub\n    LaTeX"
   },
   {
     "objectID": "index-es.html#certificaciones",
     "href": "index-es.html#certificaciones",
     "title": "Yeison Armando Buitrago López",
     "section": "Certificaciones",
-    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)"
+    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)\n\n\n\n  \n    Yeison Buitrago\n    · Científico de Datos · Bogotá, Colombia\n  \n  \n    ✉ buitragolopezyeison@gmail.com\n    GitHub\n    LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "Data Scientist\nHabi Colombia · Statistics Specialization, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nI am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in Mathematics from Universidad Distrital FJC and am completing a Statistics Specialization at Universidad Nacional de Colombia."
+    "text": "Data Scientist\nHabi Colombia · Statistics Specialization, UNAL\n\n✉ Email ⌥ GitHub in LinkedIn\nI am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in Mathematics from Universidad Distrital FJC and am completing a Statistics Specialization at Universidad Nacional de Colombia."
   },
   {
     "objectID": "index.html#professional-experience",
@@ -74,14 +74,14 @@
     "href": "index.html#technical-skills",
     "title": "Yeison Armando Buitrago López",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery\n\n\nVisualization\nKepler.gl, Streamlit, Redash\n\n\nLanguages\nSpanish (native), English (intermediate)"
+    "text": "Technical Skills\n\n  \n    Languages\n    Python\n    SQL\n    BigQuery\n  \n  \n    ML & Stats\n    Predictive models\n    Bayesian A/B testing\n    Price elasticity\n    Inferential statistics\n  \n  \n    Libraries\n    pandas\n    scikit-learn\n    geopandas\n    seaborn\n    Optuna\n  \n  \n    ETL & Cloud\n    GCP\n    BigQuery\n    Python pipelines\n  \n  \n    Visualization\n    Kepler.gl\n    Streamlit\n    Redash\n  \n  \n    Tools\n    Git\n    GitHub\n    LaTeX"
   },
   {
     "objectID": "index.html#certifications",
     "href": "index.html#certifications",
     "title": "Yeison Armando Buitrago López",
     "section": "Certifications",
-    "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)"
+    "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)\n\n\n\n  \n    Yeison Buitrago\n    · Data Scientist · Bogotá, Colombia\n  \n  \n    ✉ buitragolopezyeison@gmail.com\n    GitHub\n    LinkedIn"
   },
   {
     "objectID": "projects/cv-actualizador-ia.html",

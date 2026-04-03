@@ -17,9 +17,11 @@ toc: false
 
 Habi Colombia · Statistics Specialization, UNAL
 
-[buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com) &nbsp;·&nbsp;
-[GitHub / YeisonBL](https://github.com/YeisonBL) &nbsp;·&nbsp;
-[LinkedIn / yeisonabl](https://linkedin.com/in/yeisonabl)
+::: {.contact-links}
+[✉ Email](mailto:buitragolopezyeison@gmail.com)
+[⌥ GitHub](https://github.com/YeisonBL)
+[in LinkedIn](https://linkedin.com/in/yeisonabl)
+:::
 :::
 
 :::
@@ -98,13 +100,49 @@ Honor roll (4 consecutive semesters, Top 10%)
 
 ## Technical Skills
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery |
-| **ML & Statistics** | Predictive models, Bayesian A/B testing, price elasticity, inferential statistics |
-| **ETL & Cloud** | Python/SQL pipelines, GCP, BigQuery |
-| **Visualization** | Kepler.gl, Streamlit, Redash |
-| **Languages** | Spanish (native), English (intermediate) |
+```{=html}
+<div class="skills-grid">
+  <div class="skill-group">
+    <span class="skill-label">Languages</span>
+    <span class="skill-pill">Python</span>
+    <span class="skill-pill">SQL</span>
+    <span class="skill-pill">BigQuery</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">ML & Stats</span>
+    <span class="skill-pill">Predictive models</span>
+    <span class="skill-pill">Bayesian A/B testing</span>
+    <span class="skill-pill">Price elasticity</span>
+    <span class="skill-pill">Inferential statistics</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Libraries</span>
+    <span class="skill-pill">pandas</span>
+    <span class="skill-pill">scikit-learn</span>
+    <span class="skill-pill">geopandas</span>
+    <span class="skill-pill">seaborn</span>
+    <span class="skill-pill">Optuna</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">ETL & Cloud</span>
+    <span class="skill-pill">GCP</span>
+    <span class="skill-pill">BigQuery</span>
+    <span class="skill-pill">Python pipelines</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Visualization</span>
+    <span class="skill-pill">Kepler.gl</span>
+    <span class="skill-pill">Streamlit</span>
+    <span class="skill-pill">Redash</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Tools</span>
+    <span class="skill-pill">Git</span>
+    <span class="skill-pill">GitHub</span>
+    <span class="skill-pill">LaTeX</span>
+  </div>
+</div>
+```
 
 ---
 
@@ -113,3 +151,19 @@ Honor roll (4 consecutive semesters, Top 10%)
 - **Deep Learning Specialization** — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow
 - Introduction to Data Science — Coursera
 - Science Communication — Sociedad Matemática Mexicana (2021)
+
+---
+
+```{=html}
+<div class="contact-strip">
+  <div class="contact-strip-name">
+    Yeison Buitrago
+    <span>· Data Scientist · Bogotá, Colombia</span>
+  </div>
+  <div class="contact-strip-links">
+    <a href="mailto:buitragolopezyeison@gmail.com">✉ buitragolopezyeison@gmail.com</a>
+    <a href="https://github.com/YeisonBL">GitHub</a>
+    <a href="https://linkedin.com/in/yeisonabl">LinkedIn</a>
+  </div>
+</div>
+```

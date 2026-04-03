@@ -17,9 +17,11 @@ toc: false
 
 Habi Colombia · Especialización en Estadística, UNAL
 
-[buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com) &nbsp;·&nbsp;
-[GitHub / YeisonBL](https://github.com/YeisonBL) &nbsp;·&nbsp;
-[LinkedIn / yeisonabl](https://linkedin.com/in/yeisonabl)
+::: {.contact-links}
+[✉ Email](mailto:buitragolopezyeison@gmail.com)
+[⌥ GitHub](https://github.com/YeisonBL)
+[in LinkedIn](https://linkedin.com/in/yeisonabl)
+:::
 :::
 
 :::
@@ -98,13 +100,49 @@ Matrícula de honor (4 semestres consecutivos, Top 10%)
 
 ## Competencias técnicas
 
-| Área | Herramientas |
-|---|---|
-| **Lenguajes** | Python (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery |
-| **ML & Estadística** | Modelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial |
-| **ETL & Cloud** | Pipelines Python/SQL, GCP, BigQuery |
-| **Visualización** | Kepler.gl, Streamlit, Redash |
-| **Idiomas** | Español (nativo), Inglés (intermedio) |
+```{=html}
+<div class="skills-grid">
+  <div class="skill-group">
+    <span class="skill-label">Lenguajes</span>
+    <span class="skill-pill">Python</span>
+    <span class="skill-pill">SQL</span>
+    <span class="skill-pill">BigQuery</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">ML & Stats</span>
+    <span class="skill-pill">Modelos predictivos</span>
+    <span class="skill-pill">A/B testing bayesiano</span>
+    <span class="skill-pill">Elasticidades</span>
+    <span class="skill-pill">Estadística inferencial</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Librerías</span>
+    <span class="skill-pill">pandas</span>
+    <span class="skill-pill">scikit-learn</span>
+    <span class="skill-pill">geopandas</span>
+    <span class="skill-pill">seaborn</span>
+    <span class="skill-pill">Optuna</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">ETL & Cloud</span>
+    <span class="skill-pill">GCP</span>
+    <span class="skill-pill">BigQuery</span>
+    <span class="skill-pill">Pipelines Python</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Visualización</span>
+    <span class="skill-pill">Kepler.gl</span>
+    <span class="skill-pill">Streamlit</span>
+    <span class="skill-pill">Redash</span>
+  </div>
+  <div class="skill-group">
+    <span class="skill-label">Herramientas</span>
+    <span class="skill-pill">Git</span>
+    <span class="skill-pill">GitHub</span>
+    <span class="skill-pill">LaTeX</span>
+  </div>
+</div>
+```
 
 ---
 
@@ -113,3 +151,19 @@ Matrícula de honor (4 semestres consecutivos, Top 10%)
 - **Deep Learning Specialization** — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow
 - Introductorio en Ciencia de Datos — Coursera
 - Divulgación Científica — Sociedad Matemática Mexicana (2021)
+
+---
+
+```{=html}
+<div class="contact-strip">
+  <div class="contact-strip-name">
+    Yeison Buitrago
+    <span>· Científico de Datos · Bogotá, Colombia</span>
+  </div>
+  <div class="contact-strip-links">
+    <a href="mailto:buitragolopezyeison@gmail.com">✉ buitragolopezyeison@gmail.com</a>
+    <a href="https://github.com/YeisonBL">GitHub</a>
+    <a href="https://linkedin.com/in/yeisonabl">LinkedIn</a>
+  </div>
+</div>
+```
