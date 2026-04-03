@@ -1,0 +1,76 @@
+---
+title: "Segregación de Vivienda VIS en Bogotá"
+description: "Análisis geoespacial y estadístico sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá."
+date: "2026-01-01"
+categories: [Geoespacial, Estadística, Python, Política Pública]
+image: ../assets/vis-bogota-preview.png   # ← reemplaza con una imagen del proyecto
+---
+
+## Resumen
+
+<!-- 2-3 oraciones que expliquen el proyecto a alguien que no sabe nada del tema -->
+La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna para hogares de bajos ingresos en Colombia. Sin embargo, la concentración de este tipo de proyectos en zonas periféricas de Bogotá puede reforzar patrones de segregación socioespacial. Este análisis cuantifica ese efecto usando datos del registro de transacciones inmobiliarias (SNR) y métodos estadísticos espaciales.
+
+---
+
+## Pregunta de investigación
+
+> ¿La localización de proyectos VIS en Bogotá amplifica la segregación socioespacial, o contribuye a reducirla?
+
+---
+
+## Datos
+
+| Fuente | Descripción |
+|--------|-------------|
+| SNR | Transacciones inmobiliarias georreferenciadas |
+| DANE | Datos socioeconómicos por UPZ |
+| Catastro Bogotá | Polígonos de barrios y UPZ |
+
+---
+
+## Metodología
+
+<!-- Describe los métodos que usaste. Algunos ejemplos: -->
+
+1. **Limpieza y georreferenciación** de transacciones del SNR con Python (pandas, geopandas)
+2. **Índices de segregación** (índice de disimilitud, índice de exposición)
+3. **Análisis espacial** — autocorrelación espacial (Moran's I), mapas de calor
+4. **Visualización** — mapas interactivos con Kepler.gl
+
+---
+
+## Resultados principales
+
+<!-- 🔴 PENDIENTE: completa esto cuando tengas los resultados -->
+
+> ⚠️ *Esta sección está en construcción. Agrega aquí los hallazgos más importantes.*
+
+- Hallazgo 1: ...
+- Hallazgo 2: ...
+- Hallazgo 3: ...
+
+---
+
+## Visualizaciones
+
+<!-- Inserta aquí imágenes o mapas. Ejemplo: -->
+<!-- ![Mapa de concentración VIS por UPZ](../assets/vis-mapa.png) -->
+
+> ⚠️ *Agrega aquí capturas de los mapas de Kepler.gl u otras visualizaciones.*
+
+---
+
+## Código y reproducibilidad
+
+El análisis completo está disponible en GitHub:
+
+🔗 [github.com/YeisonABL/vis-segregacion-bogota](https://github.com/YeisonABL/vis-segregacion-bogota) ← *actualiza este link*
+
+---
+
+## Publicación
+
+Este trabajo fue desarrollado como parte de la **Especialización en Estadística, Universidad Nacional de Colombia (2025–2026)** y está disponible como preprint.
+
+🔗 *Link al preprint (próximamente)*

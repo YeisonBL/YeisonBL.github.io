@@ -1,0 +1,77 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero-section}
+
+# Yeison Buitrago {.hero-name}
+
+### Científico de Datos · Data Scientist {.hero-subtitle}
+
+Python · SQL · Machine Learning · Análisis Geoespacial · GCP
+
+[Ver proyectos →](projects/index.qmd){.btn .btn-primary .btn-lg}
+&nbsp;&nbsp;
+[Sobre mí](about.qmd){.btn .btn-outline-secondary .btn-lg}
+
+:::
+
+---
+
+## Proyectos destacados
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 🗺️ Segregación VIS en Bogotá
+**Análisis geoespacial · Estadística · Python**
+
+Investigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, visualizaciones con Kepler.gl y métodos estadísticos espaciales.
+
+*Publicado como preprint · Especialización UNAL 2025–2026*
+
+[Ver proyecto →](projects/vis-segregacion-bogota.qmd){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### 🤖 Actualizador de CV con IA
+**NLP · LLMs · Automatización · LaTeX**
+
+Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje. Reduce a segundos lo que toma horas.
+
+*Proyecto personal · 2025*
+
+[Ver proyecto →](projects/cv-actualizador-ia.qmd){.btn .btn-sm .btn-outline-primary}
+:::
+
+:::
+
+---
+
+## Stack técnico
+
+::: {.grid .skills-grid}
+
+::: {.g-col-6 .g-col-md-3 .skill-card}
+**Lenguajes**
+Python · SQL · BigQuery
+:::
+
+::: {.g-col-6 .g-col-md-3 .skill-card}
+**Machine Learning**
+scikit-learn · A/B testing · Modelos predictivos
+:::
+
+::: {.g-col-6 .g-col-md-3 .skill-card}
+**Cloud & ETL**
+GCP · BigQuery · Pipelines
+:::
+
+::: {.g-col-6 .g-col-md-3 .skill-card}
+**Visualización**
+Kepler.gl · Streamlit · Redash
+:::
+
+:::

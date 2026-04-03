@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy Científico de Datos con base en Bogotá, Colombia. Trabajo en la intersección entre estadística, machine learning y problemas de negocio reales. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano.\nMe formé como Matemático en la Universidad Distrital FJC (matrícula de honor en cuatro semestres) y actualmente curso una Especialización en Estadística en la Universidad Nacional de Colombia, donde escribí un preprint sobre segregación urbana en Bogotá."
+  },
+  {
+    "objectID": "about.html#yeison-armando-buitrago-lópez",
+    "href": "about.html#yeison-armando-buitrago-lópez",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy Científico de Datos con base en Bogotá, Colombia. Trabajo en la intersección entre estadística, machine learning y problemas de negocio reales. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano.\nMe formé como Matemático en la Universidad Distrital FJC (matrícula de honor en cuatro semestres) y actualmente curso una Especialización en Estadística en la Universidad Nacional de Colombia, donde escribí un preprint sobre segregación urbana en Bogotá."
+  },
+  {
+    "objectID": "about.html#experiencia",
+    "href": "about.html#experiencia",
+    "title": "Sobre mí",
+    "section": "Experiencia",
+    "text": "Experiencia\nHabi Colombia — Científico de Datos Mid Ago 2025 – Actualidad\n\nDiseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas.\nA/B testing bayesiano con diseño experimental propio para incrementar margen de contribución.\nRediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.\n\n\nHabi Colombia — Científico de Datos Junior Mar 2024 – Ago 2025\n\nAutomatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP).\nModelos predictivos con datos inmobiliarios para originación de crédito bancario.\nIntroducción de experimentos A/B como práctica organizacional; comunicación a stakeholders vía dashboards.\n\n\nFrubana Colombia — Especialista en Planificación de Demanda Nov 2022 – Feb 2024\n\nModelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL).\nIntegración y procesamiento de datos de múltiples fuentes operativas y comerciales.\nHerramienta interna para analistas de supply chain para detección de comportamientos atípicos."
+  },
+  {
+    "objectID": "about.html#educación",
+    "href": "about.html#educación",
+    "title": "Sobre mí",
+    "section": "Educación",
+    "text": "Educación\nUniversidad Nacional de Colombia — Especialización en Estadística 2025 – 2026 · Bogotá\nUniversidad Distrital FJC — Matemático 2017 – 2022 · Bogotá · Matrícula de honor (4 semestres, Top 10)"
+  },
+  {
+    "objectID": "about.html#skills-técnicos",
+    "href": "about.html#skills-técnicos",
+    "title": "Sobre mí",
+    "section": "Skills técnicos",
+    "text": "Skills técnicos\n\n\n\n\n\n\n\nÁrea\nHerramientas\n\n\n\n\nLenguajes\nPython (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery\n\n\nML & Estadística\nModelos predictivos, A/B testing bayesiano, análisis de elasticidades, estadística inferencial\n\n\nETL & Cloud\nPipelines Python/SQL, GCP, BigQuery, automatización de flujos de datos\n\n\nBI & Viz\nRedash, Streamlit, Kepler.gl\n\n\nHerramientas\nGit, GitHub\n\n\nIdiomas\nEspañol (nativo), Inglés (intermedio)"
+  },
+  {
+    "objectID": "about.html#certificaciones",
+    "href": "about.html#certificaciones",
+    "title": "Sobre mí",
+    "section": "Certificaciones",
+    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)"
+  },
+  {
+    "objectID": "about.html#contacto",
+    "href": "about.html#contacto",
+    "title": "Sobre mí",
+    "section": "Contacto",
+    "text": "Contacto\n📧 buitragolopezyeison@gmail.com 💼 linkedin.com/in/yeisonabl 🐙 github.com/YeisonABL"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html",
+    "href": "projects/vis-segregacion-bogota.html",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "",
+    "text": "La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna para hogares de bajos ingresos en Colombia. Sin embargo, la concentración de este tipo de proyectos en zonas periféricas de Bogotá puede reforzar patrones de segregación socioespacial. Este análisis cuantifica ese efecto usando datos del registro de transacciones inmobiliarias (SNR) y métodos estadísticos espaciales."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#resumen",
+    "href": "projects/vis-segregacion-bogota.html#resumen",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "",
+    "text": "La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna para hogares de bajos ingresos en Colombia. Sin embargo, la concentración de este tipo de proyectos en zonas periféricas de Bogotá puede reforzar patrones de segregación socioespacial. Este análisis cuantifica ese efecto usando datos del registro de transacciones inmobiliarias (SNR) y métodos estadísticos espaciales."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#pregunta-de-investigación",
+    "href": "projects/vis-segregacion-bogota.html#pregunta-de-investigación",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Pregunta de investigación",
+    "text": "Pregunta de investigación\n\n¿La localización de proyectos VIS en Bogotá amplifica la segregación socioespacial, o contribuye a reducirla?"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#datos",
+    "href": "projects/vis-segregacion-bogota.html#datos",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Datos",
+    "text": "Datos\n\n\n\nFuente\nDescripción\n\n\n\n\nSNR\nTransacciones inmobiliarias georreferenciadas\n\n\nDANE\nDatos socioeconómicos por UPZ\n\n\nCatastro Bogotá\nPolígonos de barrios y UPZ"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#metodología",
+    "href": "projects/vis-segregacion-bogota.html#metodología",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Metodología",
+    "text": "Metodología\n\n\nLimpieza y georreferenciación de transacciones del SNR con Python (pandas, geopandas)\nÍndices de segregación (índice de disimilitud, índice de exposición)\nAnálisis espacial — autocorrelación espacial (Moran’s I), mapas de calor\nVisualización — mapas interactivos con Kepler.gl"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#resultados-principales",
+    "href": "projects/vis-segregacion-bogota.html#resultados-principales",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Resultados principales",
+    "text": "Resultados principales\n\n\n⚠️ Esta sección está en construcción. Agrega aquí los hallazgos más importantes.\n\n\nHallazgo 1: …\nHallazgo 2: …\nHallazgo 3: …"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#visualizaciones",
+    "href": "projects/vis-segregacion-bogota.html#visualizaciones",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Visualizaciones",
+    "text": "Visualizaciones\n\n\n\n⚠️ Agrega aquí capturas de los mapas de Kepler.gl u otras visualizaciones."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#código-y-reproducibilidad",
+    "href": "projects/vis-segregacion-bogota.html#código-y-reproducibilidad",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Código y reproducibilidad",
+    "text": "Código y reproducibilidad\nEl análisis completo está disponible en GitHub:\n🔗 github.com/YeisonABL/vis-segregacion-bogota ← actualiza este link"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#publicación",
+    "href": "projects/vis-segregacion-bogota.html#publicación",
+    "title": "Segregación de Vivienda VIS en Bogotá",
+    "section": "Publicación",
+    "text": "Publicación\nEste trabajo fue desarrollado como parte de la Especialización en Estadística, Universidad Nacional de Colombia (2025–2026) y está disponible como preprint.\n🔗 Link al preprint (próximamente)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Proyectos de ciencia de datos: análisis geoespacial, automatización con IA y modelos predictivos.\n\n\n\n\n\n\n\n\n\n\n\nSegregación de Vivienda VIS en Bogotá\n\n\n\nGeoespacial\n\nEstadística\n\nPython\n\nPolítica Pública\n\n\n\nAnálisis geoespacial y estadístico sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\nActualizador de CV con IA\n\n\n\nNLP\n\nLLMs\n\nAutomatización\n\nPython\n\nLaTeX\n\n\n\nHerramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "LEEME.html",
+    "href": "LEEME.html",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2\n\n\n\n\n\n\n→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonABL/YeisonABL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonABL.github.io\n\n\n\n\n\n\nBusca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
+  },
+  {
+    "objectID": "LEEME.html#estructura-del-proyecto",
+    "href": "LEEME.html#estructura-del-proyecto",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2"
+  },
+  {
+    "objectID": "LEEME.html#cómo-publicar-en-github-pages",
+    "href": "LEEME.html#cómo-publicar-en-github-pages",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonABL/YeisonABL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonABL.github.io"
+  },
+  {
+    "objectID": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
+    "href": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "Busca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html",
+    "href": "projects/cv-actualizador-ia.html",
+    "title": "Actualizador de CV con IA",
+    "section": "",
+    "text": "Adaptar el CV a cada oferta de trabajo es tedioso pero importante: los sistemas ATS y los reclutadores priorizan candidatos cuyo perfil refleja exactamente las palabras clave de la vacante. Este proceso manual puede tomar 30–60 minutos por aplicación."
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#el-problema",
+    "href": "projects/cv-actualizador-ia.html#el-problema",
+    "title": "Actualizador de CV con IA",
+    "section": "",
+    "text": "Adaptar el CV a cada oferta de trabajo es tedioso pero importante: los sistemas ATS y los reclutadores priorizan candidatos cuyo perfil refleja exactamente las palabras clave de la vacante. Este proceso manual puede tomar 30–60 minutos por aplicación."
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#la-solución",
+    "href": "projects/cv-actualizador-ia.html#la-solución",
+    "title": "Actualizador de CV con IA",
+    "section": "La solución",
+    "text": "La solución\nUna herramienta en Python que:\n\nLee la oferta de empleo (texto pegado o URL)\nAnaliza el CV base en formato LaTeX\nLlama a un LLM para identificar qué experiencias y habilidades resaltar\nReescribe las secciones relevantes del CV y genera un nuevo .tex listo para compilar"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#demo",
+    "href": "projects/cv-actualizador-ia.html#demo",
+    "title": "Actualizador de CV con IA",
+    "section": "Demo",
+    "text": "Demo\n\n\n⚠️ Agrega aquí un GIF o video mostrando el flujo: oferta de entrada → CV generado."
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#stack-técnico",
+    "href": "projects/cv-actualizador-ia.html#stack-técnico",
+    "title": "Actualizador de CV con IA",
+    "section": "Stack técnico",
+    "text": "Stack técnico\n\n\n\nComponente\nTecnología\n\n\n\n\nLenguaje\nPython\n\n\nLLM\n\n\n\nFormato de salida\nLaTeX\n\n\nInterfaz"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#arquitectura",
+    "href": "projects/cv-actualizador-ia.html#arquitectura",
+    "title": "Actualizador de CV con IA",
+    "section": "Arquitectura",
+    "text": "Arquitectura\noferta_empleo.txt\n       │\n       ▼\n  [Parser de oferta]  ──→  keywords, skills requeridos\n       │\n       ▼\n  [LLM Prompt]  ──→  instrucción + CV base + keywords\n       │\n       ▼\n  [Post-proceso]  ──→  reemplaza secciones en el .tex\n       │\n       ▼\n  cv_adaptado.tex  ──→  compilar con pdflatex"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#ejemplo-de-uso",
+    "href": "projects/cv-actualizador-ia.html#ejemplo-de-uso",
+    "title": "Actualizador de CV con IA",
+    "section": "Ejemplo de uso",
+    "text": "Ejemplo de uso\n\npython actualizar_cv.py --oferta oferta.txt --cv cv_base.tex --output cv_adaptado.tex"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#resultados",
+    "href": "projects/cv-actualizador-ia.html#resultados",
+    "title": "Actualizador de CV con IA",
+    "section": "Resultados",
+    "text": "Resultados\n\n⏱️ Tiempo de adaptación: de ~45 min a ~30 segundos\n✅ Mantiene el formato y estilo LaTeX original\n🎯 Identifica automáticamente las secciones más relevantes para cada oferta"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#código",
+    "href": "projects/cv-actualizador-ia.html#código",
+    "title": "Actualizador de CV con IA",
+    "section": "Código",
+    "text": "Código\n🔗 github.com/YeisonABL/cv-actualizador-ia ← actualiza este link"
+  },
+  {
+    "objectID": "projects/cv-actualizador-ia.html#aprendizajes",
+    "href": "projects/cv-actualizador-ia.html#aprendizajes",
+    "title": "Actualizador de CV con IA",
+    "section": "Aprendizajes",
+    "text": "Aprendizajes\n\n\n⚠️ Pendiente: agrega una reflexión sobre el proceso, limitaciones, o próximos pasos."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yeison Buitrago",
+    "section": "",
+    "text": "Python · SQL · Machine Learning · Análisis Geoespacial · GCP\nVer proyectos →    Sobre mí"
+  },
+  {
+    "objectID": "index.html#proyectos-destacados",
+    "href": "index.html#proyectos-destacados",
+    "title": "Yeison Buitrago",
+    "section": "Proyectos destacados",
+    "text": "Proyectos destacados\n\n\n🗺️ Segregación VIS en Bogotá\nAnálisis geoespacial · Estadística · Python\nInvestigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, visualizaciones con Kepler.gl y métodos estadísticos espaciales.\nPublicado como preprint · Especialización UNAL 2025–2026\nVer proyecto →\n\n\n🤖 Actualizador de CV con IA\nNLP · LLMs · Automatización · LaTeX\nHerramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje. Reduce a segundos lo que toma horas.\nProyecto personal · 2025\nVer proyecto →"
+  },
+  {
+    "objectID": "index.html#stack-técnico",
+    "href": "index.html#stack-técnico",
+    "title": "Yeison Buitrago",
+    "section": "Stack técnico",
+    "text": "Stack técnico\n\n\nLenguajes Python · SQL · BigQuery\n\n\nMachine Learning scikit-learn · A/B testing · Modelos predictivos\n\n\nCloud & ETL GCP · BigQuery · Pipelines\n\n\nVisualización Kepler.gl · Streamlit · Redash"
+  }
+]

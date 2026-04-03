@@ -1,0 +1,77 @@
+---
+title: "Sobre mí"
+---
+
+## Yeison Armando Buitrago López
+
+Soy Científico de Datos con base en Bogotá, Colombia. Trabajo en la intersección entre estadística, machine learning y problemas de negocio reales. Actualmente en **Habi**, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano.
+
+Me formé como **Matemático en la Universidad Distrital FJC** (matrícula de honor en cuatro semestres) y actualmente curso una **Especialización en Estadística en la Universidad Nacional de Colombia**, donde escribí un preprint sobre segregación urbana en Bogotá.
+
+---
+
+## Experiencia
+
+**Habi Colombia** — *Científico de Datos Mid*
+`Ago 2025 – Actualidad`
+
+- Diseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas.
+- A/B testing bayesiano con diseño experimental propio para incrementar margen de contribución.
+- Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.
+
+---
+
+**Habi Colombia** — *Científico de Datos Junior*
+`Mar 2024 – Ago 2025`
+
+- Automatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP).
+- Modelos predictivos con datos inmobiliarios para originación de crédito bancario.
+- Introducción de experimentos A/B como práctica organizacional; comunicación a stakeholders vía dashboards.
+
+---
+
+**Frubana Colombia** — *Especialista en Planificación de Demanda*
+`Nov 2022 – Feb 2024`
+
+- Modelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL).
+- Integración y procesamiento de datos de múltiples fuentes operativas y comerciales.
+- Herramienta interna para analistas de supply chain para detección de comportamientos atípicos.
+
+---
+
+## Educación
+
+**Universidad Nacional de Colombia** — Especialización en Estadística
+`2025 – 2026` · Bogotá
+
+**Universidad Distrital FJC** — Matemático
+`2017 – 2022` · Bogotá · Matrícula de honor (4 semestres, Top 10)
+
+---
+
+## Skills técnicos
+
+| Área | Herramientas |
+|------|-------------|
+| **Lenguajes** | Python (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery |
+| **ML & Estadística** | Modelos predictivos, A/B testing bayesiano, análisis de elasticidades, estadística inferencial |
+| **ETL & Cloud** | Pipelines Python/SQL, GCP, BigQuery, automatización de flujos de datos |
+| **BI & Viz** | Redash, Streamlit, Kepler.gl |
+| **Herramientas** | Git, GitHub |
+| **Idiomas** | Español (nativo), Inglés (intermedio) |
+
+---
+
+## Certificaciones
+
+- **Deep Learning Specialization** — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow
+- Introductorio en Ciencia de Datos — Coursera
+- Divulgación Científica — Sociedad Matemática Mexicana (2021)
+
+---
+
+## Contacto
+
+📧 [buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com)
+💼 [linkedin.com/in/yeisonabl](https://linkedin.com/in/yeisonabl)
+🐙 [github.com/YeisonABL](https://github.com/YeisonABL)

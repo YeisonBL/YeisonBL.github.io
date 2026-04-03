@@ -1,0 +1,66 @@
+/* ============================
+   Portafolio – Yeison Buitrago
+   ============================ */
+
+/* Hero section */
+.hero-section {
+  padding: 80px 0 60px 0;
+  text-align: center;
+}
+
+.hero-name {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+
+.hero-subtitle {
+  font-weight: 400;
+  color: #6c757d;
+  margin-bottom: 1.5rem;
+}
+
+/* Skill cards en la landing page */
+.skill-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.darkly .skill-card {
+  background: #2c2f34;
+}
+
+/* Botones hero */
+.hero-section .btn {
+  margin: 0.25rem;
+}
+
+/* Separador suave */
+hr {
+  margin: 2.5rem 0;
+  opacity: 0.15;
+}
+
+/* Proyectos – grid listing */
+.quarto-listing-grid .card {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  transition: box-shadow 0.2s;
+}
+
+.quarto-listing-grid .card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+/* Tabla de skills en about.qmd */
+table {
+  width: 100%;
+}
+
+/* Navbar – pequeño ajuste */
+.navbar {
+  padding: 0.75rem 1rem;
+}

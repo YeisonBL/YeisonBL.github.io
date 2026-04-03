@@ -1,0 +1,93 @@
+---
+title: "Actualizador de CV con IA"
+description: "Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas."
+date: "2025-12-01"
+categories: [NLP, LLMs, Automatización, Python, LaTeX]
+image: ../assets/cv-updater-preview.png   # ← reemplaza con una imagen/demo
+---
+
+## El problema
+
+Adaptar el CV a cada oferta de trabajo es tedioso pero importante: los sistemas ATS y los reclutadores priorizan candidatos cuyo perfil refleja exactamente las palabras clave de la vacante. Este proceso manual puede tomar 30–60 minutos por aplicación.
+
+---
+
+## La solución
+
+Una herramienta en Python que:
+
+1. **Lee la oferta de empleo** (texto pegado o URL)
+2. **Analiza el CV base** en formato LaTeX
+3. **Llama a un LLM** para identificar qué experiencias y habilidades resaltar
+4. **Reescribe las secciones relevantes** del CV y genera un nuevo `.tex` listo para compilar
+
+---
+
+## Demo
+
+<!-- 🔴 PENDIENTE: agrega un GIF o captura de pantalla -->
+
+> ⚠️ *Agrega aquí un GIF o video mostrando el flujo: oferta de entrada → CV generado.*
+
+---
+
+## Stack técnico
+
+| Componente | Tecnología |
+|-----------|-----------|
+| Lenguaje | Python |
+| LLM | <!-- API que usaste: OpenAI, Anthropic, Groq, etc. --> |
+| Formato de salida | LaTeX |
+| Interfaz | <!-- CLI / Streamlit / otro --> |
+
+---
+
+## Arquitectura
+
+```
+oferta_empleo.txt
+       │
+       ▼
+  [Parser de oferta]  ──→  keywords, skills requeridos
+       │
+       ▼
+  [LLM Prompt]  ──→  instrucción + CV base + keywords
+       │
+       ▼
+  [Post-proceso]  ──→  reemplaza secciones en el .tex
+       │
+       ▼
+  cv_adaptado.tex  ──→  compilar con pdflatex
+```
+
+---
+
+## Ejemplo de uso
+
+<!-- 🔴 PENDIENTE: agrega un ejemplo real -->
+
+```bash
+python actualizar_cv.py --oferta oferta.txt --cv cv_base.tex --output cv_adaptado.tex
+```
+
+---
+
+## Resultados
+
+- ⏱️ Tiempo de adaptación: de ~45 min a ~30 segundos
+- ✅ Mantiene el formato y estilo LaTeX original
+- 🎯 Identifica automáticamente las secciones más relevantes para cada oferta
+
+---
+
+## Código
+
+🔗 [github.com/YeisonABL/cv-actualizador-ia](https://github.com/YeisonABL/cv-actualizador-ia) ← *actualiza este link*
+
+---
+
+## Aprendizajes
+
+<!-- Reflexión honesta sobre qué aprendiste, qué mejorarías -->
+
+> ⚠️ *Pendiente: agrega una reflexión sobre el proceso, limitaciones, o próximos pasos.*
