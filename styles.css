@@ -379,14 +379,19 @@ hr {
   --nyt-link:  #7EB8D4;
 }
 
-/* 2. Body & main container */
+/* 2. Body & all Quarto content containers */
 html[data-bs-theme="dark"],
-html[data-bs-theme="dark"] body {
+html[data-bs-theme="dark"] body,
+html[data-bs-theme="dark"] #quarto-content,
+html[data-bs-theme="dark"] main,
+html[data-bs-theme="dark"] .page-columns,
+html[data-bs-theme="dark"] .column-body,
+html[data-bs-theme="dark"] article {
   background-color: #111111 !important;
   color: #F0EDE6 !important;
 }
 
-/* 3. All text-bearing elements */
+/* 3. All text-bearing elements — nuclear option */
 html[data-bs-theme="dark"] p,
 html[data-bs-theme="dark"] li,
 html[data-bs-theme="dark"] td,
@@ -394,8 +399,12 @@ html[data-bs-theme="dark"] th,
 html[data-bs-theme="dark"] span,
 html[data-bs-theme="dark"] strong,
 html[data-bs-theme="dark"] em,
+html[data-bs-theme="dark"] b,
+html[data-bs-theme="dark"] i,
 html[data-bs-theme="dark"] blockquote,
-html[data-bs-theme="dark"] label {
+html[data-bs-theme="dark"] label,
+html[data-bs-theme="dark"] div:not(.navbar):not(.project-card),
+html[data-bs-theme="dark"] #quarto-content *:not(a):not(code):not(.navbar *):not(.project-card) {
   color: #F0EDE6 !important;
 }
 
