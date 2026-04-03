@@ -65,7 +65,7 @@ La Vivienda de Interés Social (VIS) busca garantizar el acceso a vivienda digna
 
 El análisis completo está disponible en GitHub:
 
-🔗 [github.com/YeisonABL/vis-segregacion-bogota](https://github.com/YeisonABL/vis-segregacion-bogota) ← *actualiza este link*
+🔗 [github.com/YeisonBL/vis-segregacion-bogota](https://github.com/YeisonBL/vis-segregacion-bogota)
 
 ---
 

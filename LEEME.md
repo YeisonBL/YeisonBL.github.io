@@ -37,7 +37,7 @@ Esto genera la carpeta `docs/` con el HTML del sitio.
 git init
 git add .
 git commit -m "Primer commit: portafolio inicial"
-git remote add origin https://github.com/YeisonABL/YeisonABL.github.io
+git remote add origin https://github.com/YeisonBL/YeisonBL.github.io
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ git push -u origin main
 - Source: **Deploy from a branch**
 - Branch: `main` / carpeta: `/docs`
 - Guarda y espera 1-2 minutos
-- Tu sitio estará en: `https://YeisonABL.github.io`
+- Tu sitio estará en: `https://YeisonBL.github.io`
 
 ---
 

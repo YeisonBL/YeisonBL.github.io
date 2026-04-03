@@ -82,7 +82,7 @@ python actualizar_cv.py --oferta oferta.txt --cv cv_base.tex --output cv_adaptad
 
 ## Código
 
-🔗 [github.com/YeisonABL/cv-actualizador-ia](https://github.com/YeisonABL/cv-actualizador-ia) ← *actualiza este link*
+🔗 [github.com/YeisonBL/cv-actualizador-ia](https://github.com/YeisonBL/cv-actualizador-ia)
 
 ---
 
