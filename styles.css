@@ -1,53 +1,118 @@
-/* ============================
-   Portafolio – Yeison Buitrago
-   ============================ */
+/* ── Academic Typography ── */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Code+Pro:wght@400;500&display=swap');
 
-/* Hero section */
-.hero-section {
-  padding: 80px 0 60px 0;
-  text-align: center;
+body {
+  font-family: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  font-size: 1.15rem;
+  line-height: 1.75;
 }
 
-.hero-name {
-  font-size: 3rem;
-  font-weight: 700;
-  margin-bottom: 0.2rem;
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
-.hero-subtitle {
-  font-weight: 400;
-  color: #6c757d;
-  margin-bottom: 1.5rem;
+h1 { font-size: 2rem; margin-bottom: 0.2rem; }
+h2 { font-size: 1.35rem; margin-top: 2rem; border-bottom: 1px solid #ccc; padding-bottom: 0.25rem; }
+h3 { font-size: 1.15rem; margin-top: 1.5rem; }
+
+/* Code */
+code, pre {
+  font-family: 'Source Code Pro', 'Courier New', monospace;
+  font-size: 0.88rem;
 }
 
-/* Skill cards en la landing page */
-.skill-card {
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 1rem;
-  text-align: center;
-  margin: 0.5rem 0;
+/* ── Author header ── */
+.author-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.5rem 0;
 }
 
-.darkly .skill-card {
-  background: #2c2f34;
+.author-photo img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 50%;
+  border: 3px solid #ccc;
+  display: block;
 }
 
-/* Botones hero */
-.hero-section .btn {
-  margin: 0.25rem;
+.author-info {
+  flex: 1;
 }
 
-/* Separador suave */
+.author-info h1 {
+  margin-bottom: 0.15rem;
+  border: none;
+}
+
+.author-info p {
+  margin: 0.2rem 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Dark mode */
+[data-bs-theme="dark"] .author-info p {
+  color: #aaa;
+}
+
+[data-bs-theme="dark"] h2 {
+  border-bottom-color: #444;
+}
+
+[data-bs-theme="dark"] .author-photo img {
+  border-color: #555;
+}
+
+/* ── Table ── */
+table {
+  font-size: 1rem;
+  width: 100%;
+}
+
+/* ── Links ── */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Navbar ── */
+.navbar-brand {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+/* ── Horizontal rule ── */
 hr {
-  margin: 2.5rem 0;
-  opacity: 0.15;
+  margin: 1.75rem 0;
+  border-color: #ddd;
+  opacity: 0.5;
 }
 
-/* Proyectos – grid listing */
+[data-bs-theme="dark"] hr {
+  border-color: #444;
+}
+
+/* ── Footer ── */
+.nav-footer {
+  font-family: 'EB Garamond', serif;
+  font-size: 0.95rem;
+}
+
+/* ── Project cards ── */
 .quarto-listing-grid .card {
   border: 1px solid #e0e0e0;
-  border-radius: 10px;
+  border-radius: 6px;
   transition: box-shadow 0.2s;
 }
 
@@ -55,12 +120,15 @@ hr {
   box-shadow: 0 4px 16px rgba(0,0,0,0.12);
 }
 
-/* Tabla de skills en about.qmd */
-table {
-  width: 100%;
-}
-
-/* Navbar – pequeño ajuste */
-.navbar {
-  padding: 0.75rem 1rem;
+/* Mobile */
+@media (max-width: 600px) {
+  .author-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .author-photo img {
+    width: 130px;
+    height: 130px;
+  }
 }

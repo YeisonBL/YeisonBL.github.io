@@ -219,22 +219,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yeison Buitrago",
+    "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "Python · SQL · Machine Learning · Análisis Geoespacial · GCP\nVer proyectos →    Sobre mí"
+    "text": "Científico de Datos · Data Scientist\nHabi Colombia · Especialización en Estadística, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nSoy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como Matemático en la Universidad Distrital FJC y curso una Especialización en Estadística en la Universidad Nacional de Colombia."
   },
   {
-    "objectID": "index.html#proyectos-destacados",
-    "href": "index.html#proyectos-destacados",
-    "title": "Yeison Buitrago",
-    "section": "Proyectos destacados",
-    "text": "Proyectos destacados\n\n\n🗺️ Segregación VIS en Bogotá\nAnálisis geoespacial · Estadística · Python\nInvestigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, visualizaciones con Kepler.gl y métodos estadísticos espaciales.\nPublicado como preprint · Especialización UNAL 2025–2026\nVer proyecto →\n\n\n🤖 Actualizador de CV con IA\nNLP · LLMs · Automatización · LaTeX\nHerramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje. Reduce a segundos lo que toma horas.\nProyecto personal · 2025\nVer proyecto →"
+    "objectID": "index.html#experiencia-profesional",
+    "href": "index.html#experiencia-profesional",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Experiencia profesional",
+    "text": "Experiencia profesional\nHabi Colombia — Científico de Datos Mid Ago 2025 – Actualidad\nDiseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.\nHabi Colombia — Científico de Datos Junior Mar 2024 – Ago 2025\nAutomatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.\nFrubana Colombia — Especialista en Planificación de Demanda Nov 2022 – Feb 2024\nModelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos."
   },
   {
-    "objectID": "index.html#stack-técnico",
-    "href": "index.html#stack-técnico",
-    "title": "Yeison Buitrago",
-    "section": "Stack técnico",
-    "text": "Stack técnico\n\n\nLenguajes Python · SQL · BigQuery\n\n\nMachine Learning scikit-learn · A/B testing · Modelos predictivos\n\n\nCloud & ETL GCP · BigQuery · Pipelines\n\n\nVisualización Kepler.gl · Streamlit · Redash"
+    "objectID": "index.html#proyectos-de-investigación",
+    "href": "index.html#proyectos-de-investigación",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Proyectos de investigación",
+    "text": "Proyectos de investigación\n\nSegregación de Vivienda VIS en Bogotá\nAnálisis geoespacial · Estadística espacial · Python · Política pública\nInvestigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, índices de disimilitud y exposición, autocorrelación espacial (Moran’s I) y visualizaciones interactivas con Kepler.gl. Desarrollado en el marco de la Especialización en Estadística, UNAL 2025–2026.\nVer proyecto →\n\n\nActualizador de CV con IA\nNLP · LLMs · Automatización · Python · LaTeX\nHerramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas. Identifica palabras clave de la vacante, selecciona las experiencias más relevantes y reescribe las secciones del CV manteniendo el formato original.\nVer proyecto →"
+  },
+  {
+    "objectID": "index.html#formación-académica",
+    "href": "index.html#formación-académica",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional de Colombia — Especialización en Estadística   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — Matemático   2017 – 2022 Matrícula de honor (4 semestres consecutivos, Top 10%)"
+  },
+  {
+    "objectID": "index.html#competencias-técnicas",
+    "href": "index.html#competencias-técnicas",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Competencias técnicas",
+    "text": "Competencias técnicas\n\n\n\n\n\n\n\nÁrea\nHerramientas\n\n\n\n\nLenguajes\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Estadística\nModelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial\n\n\nETL & Cloud\nPipelines Python/SQL, GCP, BigQuery\n\n\nVisualización\nKepler.gl, Streamlit, Redash\n\n\nIdiomas\nEspañol (nativo), Inglés (intermedio)"
+  },
+  {
+    "objectID": "index.html#certificaciones",
+    "href": "index.html#certificaciones",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Certificaciones",
+    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)"
   }
 ]

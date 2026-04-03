@@ -8,13 +8,7 @@ website:
   favicon: assets/favicon.ico
 
   navbar:
-    left:
-      - href: index.qmd
-        text: Inicio
-      - href: projects/index.qmd
-        text: Proyectos
-      - href: about.qmd
-        text: Sobre mí
+    title: "Yeison Buitrago"
     right:
       - icon: github
         href: https://github.com/YeisonBL
