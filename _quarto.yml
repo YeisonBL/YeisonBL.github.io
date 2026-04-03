@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Yeison Buitrago · Data Scientist"
-  description: "Portafolio de ciencia de datos: modelos, análisis geoespacial y decisiones basadas en datos."
+  description: "Data science portfolio: predictive models, geospatial analysis, and data-driven decisions."
   favicon: assets/favicon.ico
 
   navbar:
@@ -18,7 +18,7 @@ website:
         aria-label: LinkedIn
 
   page-footer:
-    center: "© 2026 Yeison Buitrago · Hecho con [Quarto](https://quarto.org)"
+    center: "© 2026 Yeison Buitrago · Built with [Quarto](https://quarto.org)"
 
 format:
   html:

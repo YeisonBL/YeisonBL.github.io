@@ -221,41 +221,41 @@
     "href": "index.html",
     "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "Científico de Datos · Data Scientist\nHabi Colombia · Especialización en Estadística, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nSoy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como Matemático en la Universidad Distrital FJC y curso una Especialización en Estadística en la Universidad Nacional de Colombia."
+    "text": "Data Scientist\nHabi Colombia · Statistics Specialization, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nI am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in Mathematics from Universidad Distrital FJC and am completing a Statistics Specialization at Universidad Nacional de Colombia."
   },
   {
-    "objectID": "index.html#experiencia-profesional",
-    "href": "index.html#experiencia-profesional",
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
     "title": "Yeison Armando Buitrago López",
-    "section": "Experiencia profesional",
-    "text": "Experiencia profesional\nHabi Colombia — Científico de Datos Mid Ago 2025 – Actualidad\nDiseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.\nHabi Colombia — Científico de Datos Junior Mar 2024 – Ago 2025\nAutomatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.\nFrubana Colombia — Especialista en Planificación de Demanda Nov 2022 – Feb 2024\nModelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos."
+    "section": "Professional Experience",
+    "text": "Professional Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\nDesign and deployment of price elasticity models across the offer portfolio. Bayesian experimentation with custom experimental design to increase contribution margin. Redesign of reference price data sources to improve client value proposition.\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP). Predictive models on real estate data for bank credit origination. Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL). Internal tool for supply chain analysts to detect atypical demand patterns."
   },
   {
-    "objectID": "index.html#proyectos-de-investigación",
-    "href": "index.html#proyectos-de-investigación",
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
     "title": "Yeison Armando Buitrago López",
-    "section": "Proyectos de investigación",
-    "text": "Proyectos de investigación\n\nSegregación de Vivienda VIS en Bogotá\nAnálisis geoespacial · Estadística espacial · Python · Política pública\nInvestigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, índices de disimilitud y exposición, autocorrelación espacial (Moran’s I) y visualizaciones interactivas con Kepler.gl. Desarrollado en el marco de la Especialización en Estadística, UNAL 2025–2026.\nVer proyecto →\n\n\nActualizador de CV con IA\nNLP · LLMs · Automatización · Python · LaTeX\nHerramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas. Identifica palabras clave de la vacante, selecciona las experiencias más relevantes y reescribe las secciones del CV manteniendo el formato original.\nVer proyecto →"
+    "section": "Research Projects",
+    "text": "Research Projects\n\nVIS Housing Segregation in Bogotá\nGeospatial analysis · Spatial statistics · Python · Public policy\nResearch on how Social Interest Housing (VIS) contributes to urban segregation in Bogotá. Analysis using SNR transaction data, dissimilarity and exposure indices, spatial autocorrelation (Moran’s I), and interactive visualizations with Kepler.gl. Developed within the Statistics Specialization, UNAL 2025–2026.\nView project →\n\n\nAI-Powered CV Updater\nNLP · LLMs · Automation · Python · LaTeX\nA tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours. It identifies keywords from the job offer, selects the most relevant experiences, and rewrites CV sections while preserving the original formatting.\nView project →"
   },
   {
-    "objectID": "index.html#formación-académica",
-    "href": "index.html#formación-académica",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Yeison Armando Buitrago López",
-    "section": "Formación académica",
-    "text": "Formación académica\nUniversidad Nacional de Colombia — Especialización en Estadística   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — Matemático   2017 – 2022 Matrícula de honor (4 semestres consecutivos, Top 10%)"
+    "section": "Education",
+    "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — B.Sc. Mathematics   2017 – 2022 Honor roll (4 consecutive semesters, Top 10%)"
   },
   {
-    "objectID": "index.html#competencias-técnicas",
-    "href": "index.html#competencias-técnicas",
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
     "title": "Yeison Armando Buitrago López",
-    "section": "Competencias técnicas",
-    "text": "Competencias técnicas\n\n\n\n\n\n\n\nÁrea\nHerramientas\n\n\n\n\nLenguajes\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Estadística\nModelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial\n\n\nETL & Cloud\nPipelines Python/SQL, GCP, BigQuery\n\n\nVisualización\nKepler.gl, Streamlit, Redash\n\n\nIdiomas\nEspañol (nativo), Inglés (intermedio)"
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery\n\n\nVisualization\nKepler.gl, Streamlit, Redash\n\n\nLanguages\nSpanish (native), English (intermediate)"
   },
   {
-    "objectID": "index.html#certificaciones",
-    "href": "index.html#certificaciones",
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
     "title": "Yeison Armando Buitrago López",
-    "section": "Certificaciones",
-    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)"
+    "section": "Certifications",
+    "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)"
   }
 ]

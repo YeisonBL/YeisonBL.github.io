@@ -13,9 +13,9 @@ toc: false
 ::: {.author-info}
 # Yeison Armando Buitrago López
 
-**Científico de Datos · Data Scientist**
+**Data Scientist**
 
-Habi Colombia · Especialización en Estadística, UNAL
+Habi Colombia · Statistics Specialization, UNAL
 
 [buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com) &nbsp;·&nbsp;
 [GitHub / YeisonBL](https://github.com/YeisonBL) &nbsp;·&nbsp;
@@ -26,69 +26,69 @@ Habi Colombia · Especialización en Estadística, UNAL
 
 ---
 
-Soy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en **Habi**, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como **Matemático en la Universidad Distrital FJC** y curso una **Especialización en Estadística en la Universidad Nacional de Colombia**.
+I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at **Habi**, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in **Mathematics from Universidad Distrital FJC** and am completing a **Statistics Specialization at Universidad Nacional de Colombia**.
 
 ---
 
-## Experiencia profesional
+## Professional Experience
 
-**Habi Colombia** — *Científico de Datos Mid* `Ago 2025 – Actualidad`
+**Habi Colombia** — *Mid Data Scientist* `Aug 2025 – Present`
 
-Diseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.
+Design and deployment of price elasticity models across the offer portfolio. Bayesian experimentation with custom experimental design to increase contribution margin. Redesign of reference price data sources to improve client value proposition.
 
-**Habi Colombia** — *Científico de Datos Junior* `Mar 2024 – Ago 2025`
+**Habi Colombia** — *Junior Data Scientist* `Mar 2024 – Aug 2025`
 
-Automatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.
+Automation and production deployment of geospatial pipelines in Python and BigQuery (GCP). Predictive models on real estate data for bank credit origination. Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.
 
-**Frubana Colombia** — *Especialista en Planificación de Demanda* `Nov 2022 – Feb 2024`
+**Frubana Colombia** — *Demand Planning Specialist* `Nov 2022 – Feb 2024`
 
-Modelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos.
-
----
-
-## Proyectos de investigación
-
-### Segregación de Vivienda VIS en Bogotá
-
-*Análisis geoespacial · Estadística espacial · Python · Política pública*
-
-Investigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Análisis con datos del SNR, índices de disimilitud y exposición, autocorrelación espacial (Moran's I) y visualizaciones interactivas con Kepler.gl. Desarrollado en el marco de la Especialización en Estadística, UNAL 2025–2026.
-
-[Ver proyecto →](projects/vis-segregacion-bogota.qmd)
-
-### Actualizador de CV con IA
-
-*NLP · LLMs · Automatización · Python · LaTeX*
-
-Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas. Identifica palabras clave de la vacante, selecciona las experiencias más relevantes y reescribe las secciones del CV manteniendo el formato original.
-
-[Ver proyecto →](projects/cv-actualizador-ia.qmd)
+Demand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL). Internal tool for supply chain analysts to detect atypical demand patterns.
 
 ---
 
-## Formación académica
+## Research Projects
 
-**Universidad Nacional de Colombia** — Especialización en Estadística &emsp; `2025 – 2026`
+### VIS Housing Segregation in Bogotá
 
-**Universidad Distrital Francisco José de Caldas** — Matemático &emsp; `2017 – 2022`
-Matrícula de honor (4 semestres consecutivos, Top 10%)
+*Geospatial analysis · Spatial statistics · Python · Public policy*
+
+Research on how Social Interest Housing (VIS) contributes to urban segregation in Bogotá. Analysis using SNR transaction data, dissimilarity and exposure indices, spatial autocorrelation (Moran's I), and interactive visualizations with Kepler.gl. Developed within the Statistics Specialization, UNAL 2025–2026.
+
+[View project →](projects/vis-segregacion-bogota.qmd)
+
+### AI-Powered CV Updater
+
+*NLP · LLMs · Automation · Python · LaTeX*
+
+A tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours. It identifies keywords from the job offer, selects the most relevant experiences, and rewrites CV sections while preserving the original formatting.
+
+[View project →](projects/cv-actualizador-ia.qmd)
 
 ---
 
-## Competencias técnicas
+## Education
 
-| Área | Herramientas |
+**Universidad Nacional de Colombia** — Statistics Specialization &emsp; `2025 – 2026`
+
+**Universidad Distrital Francisco José de Caldas** — B.Sc. Mathematics &emsp; `2017 – 2022`
+Honor roll (4 consecutive semesters, Top 10%)
+
+---
+
+## Technical Skills
+
+| Area | Tools |
 |---|---|
-| **Lenguajes** | Python (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery |
-| **ML & Estadística** | Modelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial |
-| **ETL & Cloud** | Pipelines Python/SQL, GCP, BigQuery |
-| **Visualización** | Kepler.gl, Streamlit, Redash |
-| **Idiomas** | Español (nativo), Inglés (intermedio) |
+| **Languages** | Python (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery |
+| **ML & Statistics** | Predictive models, Bayesian A/B testing, price elasticity, inferential statistics |
+| **ETL & Cloud** | Python/SQL pipelines, GCP, BigQuery |
+| **Visualization** | Kepler.gl, Streamlit, Redash |
+| **Languages** | Spanish (native), English (intermediate) |
 
 ---
 
-## Certificaciones
+## Certifications
 
-- **Deep Learning Specialization** — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow
-- Introductorio en Ciencia de Datos — Coursera
-- Divulgación Científica — Sociedad Matemática Mexicana (2021)
+- **Deep Learning Specialization** — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow
+- Introduction to Data Science — Coursera
+- Science Communication — Sociedad Matemática Mexicana (2021)
