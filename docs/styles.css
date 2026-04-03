@@ -359,13 +359,10 @@ hr {
 
 /* ══════════════════════════
    DARK MODE
-   Quarto sets data-bs-theme on <html> or <body> depending on version.
-   We target both to be safe.
+   Quarto sets data-bs-theme="dark" on the <html> element.
    ══════════════════════════ */
 
-/* 1. CSS variables — target both html and body just in case */
-:root:has([data-bs-theme="dark"]),
-[data-bs-theme="dark"] {
+html[data-bs-theme="dark"] {
   --bs-body-color:      #F0EDE6;
   --bs-body-bg:         #111111;
   --bs-emphasis-color:  #F0EDE6;
@@ -380,135 +377,57 @@ hr {
   --nyt-link:  #7EB8D4;
 }
 
-/* 2. Dark backgrounds — cover every possible Quarto container */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] body,
-body[data-bs-theme="dark"],
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] #quarto-content,
-body[data-bs-theme="dark"] #quarto-content,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] main,
-body[data-bs-theme="dark"] main,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .page-columns,
-body[data-bs-theme="dark"] .page-columns,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .quarto-container,
-body[data-bs-theme="dark"] .quarto-container,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] article,
-body[data-bs-theme="dark"] article,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"],
-body[data-bs-theme="dark"] {
-  background-color: #111111 !important;
-  color: #F0EDE6 !important;
-}
+html[data-bs-theme="dark"] body { background-color: #111111 !important; color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] #quarto-content { background-color: #111111 !important; }
+html[data-bs-theme="dark"] main { background-color: #111111 !important; }
+html[data-bs-theme="dark"] .page-columns { background-color: #111111 !important; }
+html[data-bs-theme="dark"] article { background-color: #111111 !important; }
 
-/* 3. All text elements */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] p, body[data-bs-theme="dark"] p,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] li, body[data-bs-theme="dark"] li,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] td, body[data-bs-theme="dark"] td,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] th, body[data-bs-theme="dark"] th,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] strong, body[data-bs-theme="dark"] strong,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] em, body[data-bs-theme="dark"] em,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] b, body[data-bs-theme="dark"] b {
-  color: #F0EDE6 !important;
-}
+html[data-bs-theme="dark"] p     { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] li    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] td    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] th    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] strong { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] em    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] b     { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] h1    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] h3    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] h4    { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] h2    { color: #aaaaaa !important; border-bottom-color: #F0EDE6 !important; }
 
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] h1, body[data-bs-theme="dark"] h1,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] h3, body[data-bs-theme="dark"] h3,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] h4, body[data-bs-theme="dark"] h4 {
-  color: #F0EDE6 !important;
-}
+html[data-bs-theme="dark"] .navbar { background-color: #1a1a1a !important; border-bottom: 2px solid #555 !important; }
+html[data-bs-theme="dark"] .navbar-brand { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .navbar .nav-link { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .navbar .nav-link:hover { color: #D0021B !important; }
 
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] h2, body[data-bs-theme="dark"] h2 {
-  color: #aaaaaa !important;
-  border-bottom-color: #F0EDE6 !important;
-}
+html[data-bs-theme="dark"] .author-header { border-bottom-color: #333 !important; }
+html[data-bs-theme="dark"] .author-info > p { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .author-photo img { filter: brightness(0.9); }
 
-/* 4. Navbar */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .navbar {
-  background-color: #1a1a1a !important;
-  border-bottom: 2px solid #555 !important;
-}
+html[data-bs-theme="dark"] .contact-links a { color: #F0EDE6 !important; border-color: #666 !important; }
+html[data-bs-theme="dark"] .contact-links a:hover { background: #F0EDE6 !important; color: #111 !important; }
 
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .navbar-brand,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .navbar .nav-link,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .navbar .navbar-toggler-icon {
-  color: #F0EDE6 !important;
-}
+html[data-bs-theme="dark"] .skill-label { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .skill-pill { background: #222 !important; color: #ddd !important; border-color: #444 !important; }
 
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .navbar .nav-link:hover {
-  color: #D0021B !important;
-}
+html[data-bs-theme="dark"] .project-card { background: #1a1a1a !important; border-color: #333 !important; }
+html[data-bs-theme="dark"] .project-card-body h3 { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .project-card-body p  { color: #bbbbbb !important; }
+html[data-bs-theme="dark"] .tag { background: #222 !important; color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .project-link { color: #7EB8D4 !important; }
 
-/* 5. Author section */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .author-header {
-  border-bottom-color: #333;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .author-info > p {
-  color: #aaaaaa !important;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .author-photo img {
-  filter: brightness(0.9);
-}
+html[data-bs-theme="dark"] .contact-strip { border-top-color: #555 !important; border-bottom-color: #333 !important; background: #1a1a1a !important; }
+html[data-bs-theme="dark"] .contact-strip-name { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .contact-strip-name span { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .contact-strip-links a { color: #F0EDE6 !important; border-color: #666 !important; }
+html[data-bs-theme="dark"] .contact-strip-links a:hover { background: #F0EDE6 !important; color: #111 !important; }
 
-/* 6. Contact links */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-links a {
-  color: #F0EDE6 !important;
-  border-color: #666 !important;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-links a:hover {
-  background: #F0EDE6 !important;
-  color: #111 !important;
-}
+html[data-bs-theme="dark"] table { color: #F0EDE6 !important; border-color: #333 !important; }
+html[data-bs-theme="dark"] td    { border-color: #333 !important; }
+html[data-bs-theme="dark"] th    { border-color: #333 !important; }
 
-/* 7. Skills */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .skill-label { color: #aaaaaa !important; }
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .skill-pill {
-  background: #222 !important;
-  color: #ddd !important;
-  border-color: #444 !important;
-}
-
-/* 8. Project cards */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .project-card {
-  background: #1a1a1a !important;
-  border-color: #333 !important;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .project-card-body h3 { color: #F0EDE6 !important; }
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .project-card-body p  { color: #bbbbbb !important; }
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .tag {
-  background: #222 !important;
-  color: #aaaaaa !important;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .project-link { color: #7EB8D4 !important; }
-
-/* 9. Contact strip */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-strip {
-  border-top-color: #555 !important;
-  border-bottom-color: #333 !important;
-  background: #1a1a1a;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-strip-name       { color: #F0EDE6 !important; }
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-strip-name span  { color: #aaaaaa !important; }
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-strip-links a {
-  color: #F0EDE6 !important;
-  border-color: #666 !important;
-}
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .contact-strip-links a:hover {
-  background: #F0EDE6 !important;
-  color: #111 !important;
-}
-
-/* 10. Tables */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] table,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] td,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] th {
-  color: #F0EDE6 !important;
-  border-color: #333 !important;
-}
-
-/* 11. Footer */
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .nav-footer,
-html[data-bs-theme="dark"], body[data-bs-theme="dark"] .nav-footer a {
-  color: #aaaaaa !important;
-}
+html[data-bs-theme="dark"] .nav-footer { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .nav-footer a { color: #aaaaaa !important; }
 
 /* ── Mobile ── */
 @media (max-width: 640px) {
