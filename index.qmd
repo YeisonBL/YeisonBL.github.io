@@ -48,40 +48,42 @@ Demand forecasting models over thousands of SKUs at a mass-consumption company (
 
 ## Research Projects
 
+```{=html}
 <div class="project-grid">
 
-<div class="project-card">
-  <a href="projects/vis-segregacion-bogota.qmd"><img src="assets/vis-bogota-preview.svg" alt="VIS Segregation preview"/></a>
-  <div class="project-card-body">
-    <div class="project-tags">
-      <span class="tag">Geospatial</span>
-      <span class="tag">Statistics</span>
-      <span class="tag">Python</span>
-      <span class="tag">Public Policy</span>
+  <div class="project-card">
+    <a href="projects/vis-segregacion-bogota.qmd"><img src="assets/vis-bogota-preview.svg" alt="VIS Segregation preview"/></a>
+    <div class="project-card-body">
+      <div class="project-tags">
+        <span class="tag">Geospatial</span>
+        <span class="tag">Statistics</span>
+        <span class="tag">Python</span>
+        <span class="tag">Public Policy</span>
+      </div>
+      <h3>VIS Housing Segregation in Bogotá</h3>
+      <p>Research on how Social Interest Housing contributes to urban segregation in Bogotá. Dissimilarity indices, Moran's I spatial autocorrelation, and interactive maps with Kepler.gl.</p>
+      <a href="projects/vis-segregacion-bogota.qmd" class="project-link">View project →</a>
     </div>
-    <h3>VIS Housing Segregation in Bogotá</h3>
-    <p>Research on how Social Interest Housing contributes to urban segregation in Bogotá. Dissimilarity indices, Moran's I spatial autocorrelation, and interactive maps with Kepler.gl.</p>
-    <a href="projects/vis-segregacion-bogota.qmd" class="project-link">View project →</a>
   </div>
-</div>
 
-<div class="project-card">
-  <a href="projects/cv-actualizador-ia.qmd"><img src="assets/cv-updater-preview.svg" alt="CV Updater preview"/></a>
-  <div class="project-card-body">
-    <div class="project-tags">
-      <span class="tag">NLP</span>
-      <span class="tag">LLMs</span>
-      <span class="tag">Automation</span>
-      <span class="tag">Python</span>
-      <span class="tag">LaTeX</span>
+  <div class="project-card">
+    <a href="projects/cv-actualizador-ia.qmd"><img src="assets/cv-updater-preview.svg" alt="CV Updater preview"/></a>
+    <div class="project-card-body">
+      <div class="project-tags">
+        <span class="tag">NLP</span>
+        <span class="tag">LLMs</span>
+        <span class="tag">Automation</span>
+        <span class="tag">Python</span>
+        <span class="tag">LaTeX</span>
+      </div>
+      <h3>AI-Powered CV Updater</h3>
+      <p>A tool that takes a job posting and automatically updates a LaTeX CV using a language model — reducing to seconds what otherwise takes hours.</p>
+      <a href="projects/cv-actualizador-ia.qmd" class="project-link">View project →</a>
     </div>
-    <h3>AI-Powered CV Updater</h3>
-    <p>A tool that takes a job posting and automatically updates a LaTeX CV using a language model — reducing to seconds what otherwise takes hours.</p>
-    <a href="projects/cv-actualizador-ia.qmd" class="project-link">View project →</a>
   </div>
-</div>
 
 </div>
+```
 
 ---
 

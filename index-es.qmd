@@ -1,0 +1,115 @@
+---
+title: ""
+page-layout: article
+toc: false
+---
+
+::: {.author-header}
+
+::: {.author-photo}
+![](assets/yeison.png)
+:::
+
+::: {.author-info}
+# Yeison Armando Buitrago López
+
+**Científico de Datos**
+
+Habi Colombia · Especialización en Estadística, UNAL
+
+[buitragolopezyeison@gmail.com](mailto:buitragolopezyeison@gmail.com) &nbsp;·&nbsp;
+[GitHub / YeisonBL](https://github.com/YeisonBL) &nbsp;·&nbsp;
+[LinkedIn / yeisonabl](https://linkedin.com/in/yeisonabl)
+:::
+
+:::
+
+---
+
+Soy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en **Habi**, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como **Matemático en la Universidad Distrital FJC** y curso una **Especialización en Estadística en la Universidad Nacional de Colombia**.
+
+---
+
+## Experiencia profesional
+
+**Habi Colombia** — *Científico de Datos Mid* `Ago 2025 – Actualidad`
+
+Diseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.
+
+**Habi Colombia** — *Científico de Datos Junior* `Mar 2024 – Ago 2025`
+
+Automatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.
+
+**Frubana Colombia** — *Especialista en Planificación de Demanda* `Nov 2022 – Feb 2024`
+
+Modelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos.
+
+---
+
+## Proyectos de investigación
+
+```{=html}
+<div class="project-grid">
+
+  <div class="project-card">
+    <a href="projects/vis-segregacion-bogota.qmd"><img src="assets/vis-bogota-preview.svg" alt="VIS Segregación preview"/></a>
+    <div class="project-card-body">
+      <div class="project-tags">
+        <span class="tag">Geoespacial</span>
+        <span class="tag">Estadística</span>
+        <span class="tag">Python</span>
+        <span class="tag">Política Pública</span>
+      </div>
+      <h3>Segregación de Vivienda VIS en Bogotá</h3>
+      <p>Investigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Índices de disimilitud, autocorrelación espacial (Moran's I) y mapas interactivos con Kepler.gl.</p>
+      <a href="projects/vis-segregacion-bogota.qmd" class="project-link">Ver proyecto →</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <a href="projects/cv-actualizador-ia.qmd"><img src="assets/cv-updater-preview.svg" alt="CV Updater preview"/></a>
+    <div class="project-card-body">
+      <div class="project-tags">
+        <span class="tag">NLP</span>
+        <span class="tag">LLMs</span>
+        <span class="tag">Automatización</span>
+        <span class="tag">Python</span>
+        <span class="tag">LaTeX</span>
+      </div>
+      <h3>Actualizador de CV con IA</h3>
+      <p>Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.</p>
+      <a href="projects/cv-actualizador-ia.qmd" class="project-link">Ver proyecto →</a>
+    </div>
+  </div>
+
+</div>
+```
+
+---
+
+## Formación académica
+
+**Universidad Nacional de Colombia** — Especialización en Estadística &emsp; `2025 – 2026`
+
+**Universidad Distrital Francisco José de Caldas** — Matemático &emsp; `2017 – 2022`
+Matrícula de honor (4 semestres consecutivos, Top 10%)
+
+---
+
+## Competencias técnicas
+
+| Área | Herramientas |
+|---|---|
+| **Lenguajes** | Python (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery |
+| **ML & Estadística** | Modelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial |
+| **ETL & Cloud** | Pipelines Python/SQL, GCP, BigQuery |
+| **Visualización** | Kepler.gl, Streamlit, Redash |
+| **Idiomas** | Español (nativo), Inglés (intermedio) |
+
+---
+
+## Certificaciones
+
+- **Deep Learning Specialization** — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow
+- Introductorio en Ciencia de Datos — Coursera
+- Divulgación Científica — Sociedad Matemática Mexicana (2021)

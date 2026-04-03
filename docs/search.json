@@ -1,150 +1,87 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index-es.html",
+    "href": "index-es.html",
+    "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market.\nI hold a degree in Mathematics from Universidad Distrital FJC (honor roll for four semesters) and am completing a Statistics Specialization at Universidad Nacional de Colombia, where I wrote a preprint on urban segregation in Bogotá."
+    "text": "Científico de Datos\nHabi Colombia · Especialización en Estadística, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nSoy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en Habi, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como Matemático en la Universidad Distrital FJC y curso una Especialización en Estadística en la Universidad Nacional de Colombia."
   },
   {
-    "objectID": "about.html#yeison-armando-buitrago-lópez",
-    "href": "about.html#yeison-armando-buitrago-lópez",
-    "title": "About",
+    "objectID": "index-es.html#experiencia-profesional",
+    "href": "index-es.html#experiencia-profesional",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Experiencia profesional",
+    "text": "Experiencia profesional\nHabi Colombia — Científico de Datos Mid Ago 2025 – Actualidad\nDiseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.\nHabi Colombia — Científico de Datos Junior Mar 2024 – Ago 2025\nAutomatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.\nFrubana Colombia — Especialista en Planificación de Demanda Nov 2022 – Feb 2024\nModelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos."
+  },
+  {
+    "objectID": "index-es.html#proyectos-de-investigación",
+    "href": "index-es.html#proyectos-de-investigación",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Proyectos de investigación",
+    "text": "Proyectos de investigación\n\n\n  \n    \n    \n      \n        Geoespacial\n        Estadística\n        Python\n        Política Pública\n      \n      Segregación de Vivienda VIS en Bogotá\n      Investigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Índices de disimilitud, autocorrelación espacial (Moran's I) y mapas interactivos con Kepler.gl.\n      Ver proyecto →\n    \n  \n\n  \n    \n    \n      \n        NLP\n        LLMs\n        Automatización\n        Python\n        LaTeX\n      \n      Actualizador de CV con IA\n      Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.\n      Ver proyecto →"
+  },
+  {
+    "objectID": "index-es.html#formación-académica",
+    "href": "index-es.html#formación-académica",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional de Colombia — Especialización en Estadística   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — Matemático   2017 – 2022 Matrícula de honor (4 semestres consecutivos, Top 10%)"
+  },
+  {
+    "objectID": "index-es.html#competencias-técnicas",
+    "href": "index-es.html#competencias-técnicas",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Competencias técnicas",
+    "text": "Competencias técnicas\n\n\n\n\n\n\n\nÁrea\nHerramientas\n\n\n\n\nLenguajes\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Estadística\nModelos predictivos, A/B testing bayesiano, elasticidades, estadística inferencial\n\n\nETL & Cloud\nPipelines Python/SQL, GCP, BigQuery\n\n\nVisualización\nKepler.gl, Streamlit, Redash\n\n\nIdiomas\nEspañol (nativo), Inglés (intermedio)"
+  },
+  {
+    "objectID": "index-es.html#certificaciones",
+    "href": "index-es.html#certificaciones",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Certificaciones",
+    "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yeison Armando Buitrago López",
     "section": "",
-    "text": "I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market.\nI hold a degree in Mathematics from Universidad Distrital FJC (honor roll for four semesters) and am completing a Statistics Specialization at Universidad Nacional de Colombia, where I wrote a preprint on urban segregation in Bogotá."
+    "text": "Data Scientist\nHabi Colombia · Statistics Specialization, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nI am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in Mathematics from Universidad Distrital FJC and am completing a Statistics Specialization at Universidad Nacional de Colombia."
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\n\nDesign and deployment of price elasticity models across the offer portfolio.\nBayesian A/B testing with custom experimental design to increase contribution margin.\nRedesign of reference price data sources to improve client value proposition.\n\n\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\n\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP).\nPredictive models on real estate data for bank credit origination.\nIntroduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\n\n\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\n\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL).\nIntegration and processing of data from multiple operational and commercial sources.\nInternal tool for supply chain analysts to detect atypical demand patterns."
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\nDesign and deployment of price elasticity models across the offer portfolio. Bayesian experimentation with custom experimental design to increase contribution margin. Redesign of reference price data sources to improve client value proposition.\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP). Predictive models on real estate data for bank credit origination. Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL). Internal tool for supply chain analysts to detect atypical demand patterns."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Yeison Armando Buitrago López",
+    "section": "Research Projects",
+    "text": "Research Projects\n\n\n  \n    \n    \n      \n        Geospatial\n        Statistics\n        Python\n        Public Policy\n      \n      VIS Housing Segregation in Bogotá\n      Research on how Social Interest Housing contributes to urban segregation in Bogotá. Dissimilarity indices, Moran's I spatial autocorrelation, and interactive maps with Kepler.gl.\n      View project →\n    \n  \n\n  \n    \n    \n      \n        NLP\n        LLMs\n        Automation\n        Python\n        LaTeX\n      \n      AI-Powered CV Updater\n      A tool that takes a job posting and automatically updates a LaTeX CV using a language model — reducing to seconds what otherwise takes hours.\n      View project →"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yeison Armando Buitrago López",
     "section": "Education",
-    "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization 2025 – 2026 · Bogotá\nUniversidad Distrital FJC — B.Sc. Mathematics 2017 – 2022 · Bogotá · Honor roll (4 semesters, Top 10%)"
+    "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — B.Sc. Mathematics   2017 – 2022 Honor roll (4 consecutive semesters, Top 10%)"
   },
   {
-    "objectID": "about.html#technical-skills",
-    "href": "about.html#technical-skills",
-    "title": "About",
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Yeison Armando Buitrago López",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity analysis, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery, data workflow automation\n\n\nBI & Viz\nRedash, Streamlit, Kepler.gl\n\n\nTools\nGit, GitHub\n\n\nLanguages\nSpanish (native), English (intermediate)"
+    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery\n\n\nVisualization\nKepler.gl, Streamlit, Redash\n\n\nLanguages\nSpanish (native), English (intermediate)"
   },
   {
-    "objectID": "about.html#certifications",
-    "href": "about.html#certifications",
-    "title": "About",
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Yeison Armando Buitrago López",
     "section": "Certifications",
     "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n📧 buitragolopezyeison@gmail.com 💼 linkedin.com/in/yeisonabl 🐙 github.com/YeisonBL"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html",
-    "href": "projects/vis-segregacion-bogota.html",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "",
-    "text": "Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods."
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#summary",
-    "href": "projects/vis-segregacion-bogota.html#summary",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "",
-    "text": "Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods."
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#research-question",
-    "href": "projects/vis-segregacion-bogota.html#research-question",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Research Question",
-    "text": "Research Question\n\nDoes the location of VIS projects in Bogotá amplify socio-spatial segregation, or does it help reduce it?"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#data",
-    "href": "projects/vis-segregacion-bogota.html#data",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Data",
-    "text": "Data\n\n\n\nSource\nDescription\n\n\n\n\nSNR\nGeoreferenced real estate transactions\n\n\nDANE\nSocioeconomic data by UPZ\n\n\nCatastro Bogotá\nNeighborhood and UPZ polygons"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#methodology",
-    "href": "projects/vis-segregacion-bogota.html#methodology",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Methodology",
-    "text": "Methodology\n\nCleaning and georeferencing of SNR transactions with Python (pandas, geopandas)\nSegregation indices (dissimilarity index, exposure index)\nSpatial analysis — spatial autocorrelation (Moran’s I), heat maps\nVisualization — interactive maps with Kepler.gl"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#main-results",
-    "href": "projects/vis-segregacion-bogota.html#main-results",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Main Results",
-    "text": "Main Results\n\n⚠️ This section is under construction. Add the key findings here.\n\n\nFinding 1: …\nFinding 2: …\nFinding 3: …"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#visualizations",
-    "href": "projects/vis-segregacion-bogota.html#visualizations",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Visualizations",
-    "text": "Visualizations\n\n⚠️ Add screenshots of Kepler.gl maps or other visualizations here."
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#code-reproducibility",
-    "href": "projects/vis-segregacion-bogota.html#code-reproducibility",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Code & Reproducibility",
-    "text": "Code & Reproducibility\nFull analysis available on GitHub:\n🔗 github.com/YeisonBL/vis-segregacion-bogota"
-  },
-  {
-    "objectID": "projects/vis-segregacion-bogota.html#publication",
-    "href": "projects/vis-segregacion-bogota.html#publication",
-    "title": "VIS Housing Segregation in Bogotá",
-    "section": "Publication",
-    "text": "Publication\nThis work was developed as part of the Statistics Specialization, Universidad Nacional de Colombia (2025–2026) and is available as a preprint.\n🔗 Preprint link (coming soon)"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Data science projects: geospatial analysis, AI automation, and predictive modeling.\n\n\n\n\n\n\n\n\n\n\n\nVIS Housing Segregation in Bogotá\n\n\n\nGeospatial\n\nStatistics\n\nPython\n\nPublic Policy\n\n\n\nGeospatial and statistical analysis of how Social Interest Housing contributes to urban segregation in Bogotá.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\nAI-Powered CV Updater\n\n\n\nNLP\n\nLLMs\n\nAutomation\n\nPython\n\nLaTeX\n\n\n\nA tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours.\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "LEEME.html",
-    "href": "LEEME.html",
-    "title": "Portafolio – Yeison Buitrago",
-    "section": "",
-    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2\n\n\n\n\n\n\n→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonBL/YeisonBL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonBL.github.io\n\n\n\n\n\n\nBusca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
-  },
-  {
-    "objectID": "LEEME.html#estructura-del-proyecto",
-    "href": "LEEME.html#estructura-del-proyecto",
-    "title": "Portafolio – Yeison Buitrago",
-    "section": "",
-    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2"
-  },
-  {
-    "objectID": "LEEME.html#cómo-publicar-en-github-pages",
-    "href": "LEEME.html#cómo-publicar-en-github-pages",
-    "title": "Portafolio – Yeison Buitrago",
-    "section": "",
-    "text": "→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonBL/YeisonBL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonBL.github.io"
-  },
-  {
-    "objectID": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
-    "href": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
-    "title": "Portafolio – Yeison Buitrago",
-    "section": "",
-    "text": "Busca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
   },
   {
     "objectID": "projects/cv-actualizador-ia.html",
@@ -217,45 +154,150 @@
     "text": "Learnings\n\n⚠️ Add a reflection on the process, limitations, or next steps."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yeison Armando Buitrago López",
+    "objectID": "LEEME.html",
+    "href": "LEEME.html",
+    "title": "Portafolio – Yeison Buitrago",
     "section": "",
-    "text": "Data Scientist\nHabi Colombia · Statistics Specialization, UNAL\nbuitragolopezyeison@gmail.com  ·  GitHub / YeisonBL  ·  LinkedIn / yeisonabl\nI am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market. I hold a degree in Mathematics from Universidad Distrital FJC and am completing a Statistics Specialization at Universidad Nacional de Colombia."
+    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2\n\n\n\n\n\n\n→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonBL/YeisonBL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonBL.github.io\n\n\n\n\n\n\nBusca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
   },
   {
-    "objectID": "index.html#professional-experience",
-    "href": "index.html#professional-experience",
-    "title": "Yeison Armando Buitrago López",
-    "section": "Professional Experience",
-    "text": "Professional Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\nDesign and deployment of price elasticity models across the offer portfolio. Bayesian experimentation with custom experimental design to increase contribution margin. Redesign of reference price data sources to improve client value proposition.\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP). Predictive models on real estate data for bank credit origination. Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL). Internal tool for supply chain analysts to detect atypical demand patterns."
+    "objectID": "LEEME.html#estructura-del-proyecto",
+    "href": "LEEME.html#estructura-del-proyecto",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "mi-portafolio/\n├── _quarto.yml                        # Configuración del sitio (tema, navbar, etc.)\n├── index.qmd                          # Landing page (página de inicio)\n├── about.qmd                          # Página \"Sobre mí\"\n├── styles.css                         # Estilos personalizados\n├── .nojekyll                          # Necesario para GitHub Pages\n├── assets/                            # ← CREA esta carpeta y pon imágenes aquí\n│   ├── vis-bogota-preview.png\n│   └── cv-updater-preview.png\n└── projects/\n    ├── index.qmd                      # Lista de proyectos (se genera automáticamente)\n    ├── vis-segregacion-bogota.qmd     # Proyecto 1\n    └── cv-actualizador-ia.qmd        # Proyecto 2"
   },
   {
-    "objectID": "index.html#research-projects",
-    "href": "index.html#research-projects",
-    "title": "Yeison Armando Buitrago López",
-    "section": "Research Projects",
-    "text": "Research Projects\n\n\n\n\n&lt;div class=\"project-tags\"&gt;\n  &lt;span class=\"tag\"&gt;Geospatial&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;Statistics&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;Python&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;Public Policy&lt;/span&gt;\n&lt;/div&gt;\n&lt;h3&gt;VIS Housing Segregation in Bogotá&lt;/h3&gt;\n&lt;p&gt;Research on how Social Interest Housing contributes to urban segregation in Bogotá. Dissimilarity indices, Moran's I spatial autocorrelation, and interactive maps with Kepler.gl.&lt;/p&gt;\n&lt;a href=\"projects/vis-segregacion-bogota.qmd\" class=\"project-link\"&gt;View project →&lt;/a&gt;\n\n\n\n\n\n&lt;div class=\"project-tags\"&gt;\n  &lt;span class=\"tag\"&gt;NLP&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;LLMs&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;Automation&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;Python&lt;/span&gt;\n  &lt;span class=\"tag\"&gt;LaTeX&lt;/span&gt;\n&lt;/div&gt;\n&lt;h3&gt;AI-Powered CV Updater&lt;/h3&gt;\n&lt;p&gt;A tool that takes a job posting and automatically updates a LaTeX CV using a language model — reducing to seconds what otherwise takes hours.&lt;/p&gt;\n&lt;a href=\"projects/cv-actualizador-ia.qmd\" class=\"project-link\"&gt;View project →&lt;/a&gt;"
+    "objectID": "LEEME.html#cómo-publicar-en-github-pages",
+    "href": "LEEME.html#cómo-publicar-en-github-pages",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "→ https://quarto.org/docs/get-started/\n\n\n\ncd mi-portafolio\nquarto render\nEsto genera la carpeta docs/ con el HTML del sitio.\n\n\n\ngit init\ngit add .\ngit commit -m \"Primer commit: portafolio inicial\"\ngit remote add origin https://github.com/YeisonBL/YeisonBL.github.io\ngit push -u origin main\n\n\n\n\nVe a tu repo en GitHub\nSettings → Pages\nSource: Deploy from a branch\nBranch: main / carpeta: /docs\nGuarda y espera 1-2 minutos\nTu sitio estará en: https://YeisonBL.github.io"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Yeison Armando Buitrago López",
+    "objectID": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
+    "href": "LEEME.html#cómo-agregar-contenido-a-los-proyectos",
+    "title": "Portafolio – Yeison Buitrago",
+    "section": "",
+    "text": "Busca las secciones marcadas con ⚠️ PENDIENTE en los archivos .qmd y reemplázalas con tu contenido real.\nLos archivos .qmd son como Markdown normal — puedes escribir texto, pegar código Python con bloques de código, e insertar imágenes."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data science projects: geospatial analysis, AI automation, and predictive modeling.\n\n\n\n\n\n\n\n\n\n\n\nVIS Housing Segregation in Bogotá\n\n\n\nGeospatial\n\nStatistics\n\nPython\n\nPublic Policy\n\n\n\nGeospatial and statistical analysis of how Social Interest Housing contributes to urban segregation in Bogotá.\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\nAI-Powered CV Updater\n\n\n\nNLP\n\nLLMs\n\nAutomation\n\nPython\n\nLaTeX\n\n\n\nA tool that takes a job posting and automatically updates a LaTeX CV using a language model, reducing to seconds what otherwise takes hours.\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html",
+    "href": "projects/vis-segregacion-bogota.html",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "",
+    "text": "Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#summary",
+    "href": "projects/vis-segregacion-bogota.html#summary",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "",
+    "text": "Social Interest Housing (VIS) aims to guarantee access to decent housing for low-income households in Colombia. However, the concentration of these projects in peripheral areas of Bogotá may reinforce socio-spatial segregation patterns. This analysis quantifies that effect using data from the real estate transaction registry (SNR) and spatial statistical methods."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#research-question",
+    "href": "projects/vis-segregacion-bogota.html#research-question",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Research Question",
+    "text": "Research Question\n\nDoes the location of VIS projects in Bogotá amplify socio-spatial segregation, or does it help reduce it?"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#data",
+    "href": "projects/vis-segregacion-bogota.html#data",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Data",
+    "text": "Data\n\n\n\nSource\nDescription\n\n\n\n\nSNR\nGeoreferenced real estate transactions\n\n\nDANE\nSocioeconomic data by UPZ\n\n\nCatastro Bogotá\nNeighborhood and UPZ polygons"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#methodology",
+    "href": "projects/vis-segregacion-bogota.html#methodology",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Methodology",
+    "text": "Methodology\n\nCleaning and georeferencing of SNR transactions with Python (pandas, geopandas)\nSegregation indices (dissimilarity index, exposure index)\nSpatial analysis — spatial autocorrelation (Moran’s I), heat maps\nVisualization — interactive maps with Kepler.gl"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#main-results",
+    "href": "projects/vis-segregacion-bogota.html#main-results",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Main Results",
+    "text": "Main Results\n\n⚠️ This section is under construction. Add the key findings here.\n\n\nFinding 1: …\nFinding 2: …\nFinding 3: …"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#visualizations",
+    "href": "projects/vis-segregacion-bogota.html#visualizations",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Visualizations",
+    "text": "Visualizations\n\n⚠️ Add screenshots of Kepler.gl maps or other visualizations here."
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#code-reproducibility",
+    "href": "projects/vis-segregacion-bogota.html#code-reproducibility",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Code & Reproducibility",
+    "text": "Code & Reproducibility\nFull analysis available on GitHub:\n🔗 github.com/YeisonBL/vis-segregacion-bogota"
+  },
+  {
+    "objectID": "projects/vis-segregacion-bogota.html#publication",
+    "href": "projects/vis-segregacion-bogota.html#publication",
+    "title": "VIS Housing Segregation in Bogotá",
+    "section": "Publication",
+    "text": "Publication\nThis work was developed as part of the Statistics Specialization, Universidad Nacional de Colombia (2025–2026) and is available as a preprint.\n🔗 Preprint link (coming soon)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market.\nI hold a degree in Mathematics from Universidad Distrital FJC (honor roll for four semesters) and am completing a Statistics Specialization at Universidad Nacional de Colombia, where I wrote a preprint on urban segregation in Bogotá."
+  },
+  {
+    "objectID": "about.html#yeison-armando-buitrago-lópez",
+    "href": "about.html#yeison-armando-buitrago-lópez",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data Scientist based in Bogotá, Colombia, working at the intersection of statistics, machine learning, and real business problems. Currently at Habi, where I design price elasticity models and A/B experiments for the Colombian real estate market.\nI hold a degree in Mathematics from Universidad Distrital FJC (honor roll for four semesters) and am completing a Statistics Specialization at Universidad Nacional de Colombia, where I wrote a preprint on urban segregation in Bogotá."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\n\nDesign and deployment of price elasticity models across the offer portfolio.\nBayesian A/B testing with custom experimental design to increase contribution margin.\nRedesign of reference price data sources to improve client value proposition.\n\n\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\n\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP).\nPredictive models on real estate data for bank credit origination.\nIntroduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\n\n\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\n\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL).\nIntegration and processing of data from multiple operational and commercial sources.\nInternal tool for supply chain analysts to detect atypical demand patterns."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
     "section": "Education",
-    "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — B.Sc. Mathematics   2017 – 2022 Honor roll (4 consecutive semesters, Top 10%)"
+    "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization 2025 – 2026 · Bogotá\nUniversidad Distrital FJC — B.Sc. Mathematics 2017 – 2022 · Bogotá · Honor roll (4 semesters, Top 10%)"
   },
   {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "Yeison Armando Buitrago López",
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, geopandas, seaborn), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery\n\n\nVisualization\nKepler.gl, Streamlit, Redash\n\n\nLanguages\nSpanish (native), English (intermediate)"
+    "text": "Technical Skills\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nLanguages\nPython (pandas, scikit-learn, matplotlib, seaborn, Optuna), SQL, BigQuery\n\n\nML & Statistics\nPredictive models, Bayesian A/B testing, price elasticity analysis, inferential statistics\n\n\nETL & Cloud\nPython/SQL pipelines, GCP, BigQuery, data workflow automation\n\n\nBI & Viz\nRedash, Streamlit, Kepler.gl\n\n\nTools\nGit, GitHub\n\n\nLanguages\nSpanish (native), English (intermediate)"
   },
   {
-    "objectID": "index.html#certifications",
-    "href": "index.html#certifications",
-    "title": "Yeison Armando Buitrago López",
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
     "section": "Certifications",
     "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n📧 buitragolopezyeison@gmail.com 💼 linkedin.com/in/yeisonabl 🐙 github.com/YeisonBL"
   }
 ]

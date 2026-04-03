@@ -9,6 +9,13 @@ website:
 
   navbar:
     title: "Yeison Buitrago"
+    background: "#F05A28"
+    foreground: "white"
+    left:
+      - text: "ES"
+        href: index-es.qmd
+      - text: "EN"
+        href: index.qmd
     right:
       - icon: github
         href: https://github.com/YeisonBL
