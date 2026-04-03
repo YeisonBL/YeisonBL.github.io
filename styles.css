@@ -360,109 +360,143 @@ hr {
 /* ══════════════════════════
    DARK MODE
    ══════════════════════════ */
+
+/* 1. Override Bootstrap's own CSS variables first */
 [data-bs-theme="dark"] {
+  --bs-body-color:       #F0EDE6 !important;
+  --bs-body-bg:          #111111 !important;
+  --bs-emphasis-color:   #F0EDE6 !important;
+  --bs-secondary-color:  #aaaaaa !important;
+  --bs-heading-color:    #F0EDE6 !important;
+  --bs-link-color:       #7EB8D4 !important;
+  --bs-border-color:     #333333 !important;
+
+  /* our custom vars */
   --nyt-dark:  #F0EDE6;
-  --nyt-gray:  #aaa;
-  --nyt-rule:  #333;
+  --nyt-gray:  #aaaaaa;
+  --nyt-rule:  #333333;
   --nyt-light: #1e1e1e;
   --nyt-link:  #7EB8D4;
 }
 
-[data-bs-theme="dark"] body {
-  background: #111 !important;
+/* 2. Body & main container */
+html[data-bs-theme="dark"],
+html[data-bs-theme="dark"] body {
+  background-color: #111111 !important;
   color: #F0EDE6 !important;
 }
 
-/* Force all text elements in dark mode */
-[data-bs-theme="dark"] p,
-[data-bs-theme="dark"] li,
-[data-bs-theme="dark"] td,
-[data-bs-theme="dark"] th,
-[data-bs-theme="dark"] span,
-[data-bs-theme="dark"] strong,
-[data-bs-theme="dark"] em {
-  color: #F0EDE6;
-}
-
-[data-bs-theme="dark"] h1,
-[data-bs-theme="dark"] h2,
-[data-bs-theme="dark"] h3,
-[data-bs-theme="dark"] h4 {
+/* 3. All text-bearing elements */
+html[data-bs-theme="dark"] p,
+html[data-bs-theme="dark"] li,
+html[data-bs-theme="dark"] td,
+html[data-bs-theme="dark"] th,
+html[data-bs-theme="dark"] span,
+html[data-bs-theme="dark"] strong,
+html[data-bs-theme="dark"] em,
+html[data-bs-theme="dark"] blockquote,
+html[data-bs-theme="dark"] label {
   color: #F0EDE6 !important;
 }
 
-[data-bs-theme="dark"] h2 {
-  color: #aaa !important;
-  border-bottom-color: #F0EDE6;
+html[data-bs-theme="dark"] h1,
+html[data-bs-theme="dark"] h3,
+html[data-bs-theme="dark"] h4 {
+  color: #F0EDE6 !important;
 }
 
-[data-bs-theme="dark"] .navbar {
+html[data-bs-theme="dark"] h2 {
+  color: #aaaaaa !important;
+  border-bottom-color: #F0EDE6 !important;
+}
+
+/* 4. Navbar */
+html[data-bs-theme="dark"] .navbar {
   background-color: #1a1a1a !important;
-  border-bottom: 2px solid #F0EDE6 !important;
+  border-bottom: 2px solid #555 !important;
 }
 
-[data-bs-theme="dark"] .navbar-brand {
+html[data-bs-theme="dark"] .navbar-brand,
+html[data-bs-theme="dark"] .navbar .nav-link,
+html[data-bs-theme="dark"] .navbar .navbar-toggler-icon {
   color: #F0EDE6 !important;
 }
 
-[data-bs-theme="dark"] .navbar .nav-link {
-  color: #F0EDE6 !important;
+html[data-bs-theme="dark"] .navbar .nav-link:hover {
+  color: #D0021B !important;
 }
 
-[data-bs-theme="dark"] .navbar .nav-link:hover {
-  color: var(--nyt-red) !important;
-}
-
-[data-bs-theme="dark"] .author-info > p { color: #aaa !important; }
-
-[data-bs-theme="dark"] .author-header {
+/* 5. Author section */
+html[data-bs-theme="dark"] .author-header {
   border-bottom-color: #333;
 }
-
-[data-bs-theme="dark"] .author-photo img {
-  filter: grayscale(20%) brightness(0.9);
+html[data-bs-theme="dark"] .author-info > p {
+  color: #aaaaaa !important;
+}
+html[data-bs-theme="dark"] .author-photo img {
+  filter: brightness(0.9);
 }
 
-[data-bs-theme="dark"] .project-card {
+/* 6. Contact links */
+html[data-bs-theme="dark"] .contact-links a {
+  color: #F0EDE6 !important;
+  border-color: #666 !important;
+}
+html[data-bs-theme="dark"] .contact-links a:hover {
+  background: #F0EDE6 !important;
+  color: #111 !important;
+}
+
+/* 7. Skills */
+html[data-bs-theme="dark"] .skill-label { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .skill-pill {
+  background: #222 !important;
+  color: #ddd !important;
+  border-color: #444 !important;
+}
+
+/* 8. Project cards */
+html[data-bs-theme="dark"] .project-card {
+  background: #1a1a1a !important;
+  border-color: #333 !important;
+}
+html[data-bs-theme="dark"] .project-card-body h3 { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .project-card-body p  { color: #bbbbbb !important; }
+html[data-bs-theme="dark"] .tag {
+  background: #222 !important;
+  color: #aaaaaa !important;
+}
+html[data-bs-theme="dark"] .project-link { color: #7EB8D4 !important; }
+
+/* 9. Contact strip */
+html[data-bs-theme="dark"] .contact-strip {
+  border-top-color: #555 !important;
+  border-bottom-color: #333 !important;
   background: #1a1a1a;
-  border-color: #333;
+}
+html[data-bs-theme="dark"] .contact-strip-name       { color: #F0EDE6 !important; }
+html[data-bs-theme="dark"] .contact-strip-name span  { color: #aaaaaa !important; }
+html[data-bs-theme="dark"] .contact-strip-links a {
+  color: #F0EDE6 !important;
+  border-color: #666 !important;
+}
+html[data-bs-theme="dark"] .contact-strip-links a:hover {
+  background: #F0EDE6 !important;
+  color: #111 !important;
 }
 
-[data-bs-theme="dark"] .project-card-body p { color: #bbb !important; }
-[data-bs-theme="dark"] .project-card-body h3 { color: #F0EDE6 !important; }
-[data-bs-theme="dark"] .tag { background: #222; color: #aaa; }
-[data-bs-theme="dark"] .skill-pill { background: #1e1e1e; color: #ddd; border-color: #333; }
-[data-bs-theme="dark"] .skill-label { color: #aaa !important; }
-
-[data-bs-theme="dark"] .contact-links a {
-  color: #F0EDE6;
-  border-color: #666;
-}
-[data-bs-theme="dark"] .contact-links a:hover {
-  background: #F0EDE6;
-  color: #111;
-}
-
-[data-bs-theme="dark"] .contact-strip {
-  border-top-color: #F0EDE6;
-  border-bottom-color: #333;
-}
-[data-bs-theme="dark"] .contact-strip-name { color: #F0EDE6 !important; }
-[data-bs-theme="dark"] .contact-strip-name span { color: #aaa !important; }
-[data-bs-theme="dark"] .contact-strip-links a {
-  color: #F0EDE6;
-  border-color: #666;
-}
-[data-bs-theme="dark"] .contact-strip-links a:hover {
-  background: #F0EDE6;
-  color: #111;
-}
-
-[data-bs-theme="dark"] table,
-[data-bs-theme="dark"] tr,
-[data-bs-theme="dark"] td {
+/* 10. Tables */
+html[data-bs-theme="dark"] table,
+html[data-bs-theme="dark"] td,
+html[data-bs-theme="dark"] th {
   color: #F0EDE6 !important;
   border-color: #333 !important;
+}
+
+/* 11. Footer */
+html[data-bs-theme="dark"] .nav-footer,
+html[data-bs-theme="dark"] .nav-footer a {
+  color: #aaaaaa !important;
 }
 
 /* ── Mobile ── */
