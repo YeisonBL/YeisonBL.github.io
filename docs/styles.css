@@ -359,50 +359,59 @@ hr {
 
 /* ══════════════════════════
    DARK MODE
-   Bootstrap darkly handles base colors.
-   We only override our custom components.
+   Bootstrap darkly handles base dark bg/text.
+   We override every hardcoded light color above.
    ══════════════════════════ */
 
-body.quarto-dark h2 {
-  color: #aaaaaa !important;
-  border-bottom-color: #ccc !important;
+/* Override CSS variables */
+body.quarto-dark {
+  --nyt-dark:  #F0EDE6;
+  --nyt-gray:  #aaaaaa;
+  --nyt-rule:  #333333;
+  --nyt-light: #1e1e1e;
+  --nyt-link:  #7EB8D4;
 }
 
-body.quarto-dark .navbar {
-  background-color: #1a1a1a !important;
-  border-bottom: 2px solid #555 !important;
-}
+/* Base text color (overrides line 22: body { color: var(--nyt-dark) }) */
+body.quarto-dark { color: #F0EDE6 !important; }
 
-body.quarto-dark .contact-links a {
-  color: #F0EDE6;
-  border-color: #666;
-}
-body.quarto-dark .contact-links a:hover {
-  background: #F0EDE6;
-  color: #111;
-}
+/* Headings (overrides lines 73, 83) */
+body.quarto-dark h1 { color: #F0EDE6 !important; }
+body.quarto-dark h2 { color: #aaaaaa !important; border-bottom-color: #aaa !important; }
+body.quarto-dark h3 { color: #F0EDE6 !important; }
 
-body.quarto-dark .skill-pill {
-  background: #2a2a2a !important;
-  color: #ddd !important;
-  border-color: #444 !important;
-}
+/* Navbar (overrides lines 40, 50, 58) */
+body.quarto-dark .navbar { background-color: #1a1a1a !important; border-bottom-color: #555 !important; }
+body.quarto-dark .navbar-brand { color: #F0EDE6 !important; }
+body.quarto-dark .navbar .nav-link { color: #F0EDE6 !important; }
 
-body.quarto-dark .project-card {
-  background: #1e1e2e !important;
-  border-color: #333 !important;
-}
+/* Author section (overrides lines 147, 163-164) */
+body.quarto-dark .author-info > p { color: #aaaaaa !important; }
+body.quarto-dark .contact-links a { color: #F0EDE6 !important; border-color: #666 !important; }
+body.quarto-dark .contact-links a:hover { background: #F0EDE6 !important; color: #111 !important; }
+
+/* Skills (overrides lines 199, 206-210) */
+body.quarto-dark .skill-label { color: #aaaaaa !important; }
+body.quarto-dark .skill-pill { background: #2a2a2a !important; color: #ddd !important; border-color: #444 !important; }
+
+/* Project cards (overrides lines 227, 264, 281-282) */
+body.quarto-dark .project-card { background: #1e1e2e !important; border-color: #333 !important; }
 body.quarto-dark .project-card-body p { color: #bbb !important; }
 body.quarto-dark .tag { background: #2a2a2a !important; color: #aaa !important; }
 body.quarto-dark .project-link { color: #7EB8D4 !important; }
 
-body.quarto-dark .contact-strip {
-  background: #1a1a1a !important;
-  border-top-color: #555 !important;
-  border-bottom-color: #333 !important;
-}
-body.quarto-dark .contact-strip-links a { border-color: #666; }
+/* HR (overrides line 114) */
+body.quarto-dark hr { border-top-color: #333 !important; }
+
+/* Contact strip (overrides lines 302-303, 315, 322, 336-337) */
+body.quarto-dark .contact-strip { background: #1a1a1a !important; border-top-color: #555 !important; border-bottom-color: #333 !important; }
+body.quarto-dark .contact-strip-name { color: #F0EDE6 !important; }
+body.quarto-dark .contact-strip-name span { color: #aaaaaa !important; }
+body.quarto-dark .contact-strip-links a { color: #F0EDE6 !important; border-color: #666 !important; }
 body.quarto-dark .contact-strip-links a:hover { background: #F0EDE6 !important; color: #111 !important; }
+
+/* Footer (overrides line 356) */
+body.quarto-dark .nav-footer { color: #aaaaaa !important; border-top-color: #333 !important; }
 
 /* ── Mobile ── */
 @media (max-width: 640px) {
