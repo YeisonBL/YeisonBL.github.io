@@ -2,84 +2,84 @@
   {
     "objectID": "index-es.html",
     "href": "index-es.html",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "",
-    "text": "Vol. I · N.º 1\n    Sábado, 11 de abril de 2026\n    Bogotá · 18°C\n  \n  \n  \"Todos los datos dignos de ser modelados\""
+    "text": "Vol. I · N.º 1\n    Sábado, 11 de abril de 2026\n    Bogotá · 18°C\n  \n  \n  Ciencia de Datos · Estadística · Bogotá"
   },
   {
     "objectID": "index-es.html#experiencia-profesional",
     "href": "index-es.html#experiencia-profesional",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Experiencia profesional",
     "text": "Experiencia profesional\nHabi Colombia — Científico de Datos Mid Ago 2025 – Actualidad\nDiseño y despliegue de modelos de elasticidad de precios sobre el portafolio de ofertas. Experimentación bayesiana con diseño propio para incrementar margen de contribución. Rediseño de fuentes de datos de precios de referencia para mejorar la propuesta de valor al cliente.\nHabi Colombia — Científico de Datos Junior Mar 2024 – Ago 2025\nAutomatización y despliegue en producción de pipelines con lógica geoespacial en Python y BigQuery (GCP). Modelos predictivos con datos inmobiliarios para originación de crédito bancario. Introducción de experimentos A/B como práctica organizacional.\nFrubana Colombia — Especialista en Planificación de Demanda Nov 2022 – Feb 2024\nModelos de pronóstico de demanda sobre miles de SKU en empresa de consumo masivo (Python + SQL). Herramienta interna para analistas de supply chain para detección de comportamientos atípicos."
   },
   {
     "objectID": "index-es.html#proyectos-de-investigación",
     "href": "index-es.html#proyectos-de-investigación",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Proyectos de investigación",
     "text": "Proyectos de investigación\n\n\n  \n    \n    \n      \n        Geoespacial\n        Estadística\n        Python\n        Política Pública\n      \n      Segregación de Vivienda VIS en Bogotá\n      Investigación sobre cómo la Vivienda de Interés Social contribuye a la segregación urbana en Bogotá. Índices de disimilitud, autocorrelación espacial (Moran's I) y mapas interactivos con Kepler.gl.\n      Ver proyecto →\n    \n  \n\n  \n    \n    \n      \n        NLP\n        LLMs\n        Automatización\n        Python\n        LaTeX\n      \n      Actualizador de CV con IA\n      Herramienta que toma una oferta de empleo y actualiza automáticamente el CV en LaTeX usando un modelo de lenguaje, reduciendo a segundos lo que toma horas.\n      Ver proyecto →"
   },
   {
     "objectID": "index-es.html#formación-académica",
     "href": "index-es.html#formación-académica",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Formación académica",
     "text": "Formación académica\nUniversidad Nacional de Colombia — Especialización en Estadística   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — Matemático   2017 – 2022 Matrícula de honor (4 semestres consecutivos, Top 10%)"
   },
   {
     "objectID": "index-es.html#competencias-técnicas",
     "href": "index-es.html#competencias-técnicas",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Competencias técnicas",
     "text": "Competencias técnicas\n\n  \n    Lenguajes\n    Python\n    SQL\n    BigQuery\n  \n  \n    ML & Stats\n    Modelos predictivos\n    A/B testing bayesiano\n    Elasticidades\n    Estadística inferencial\n  \n  \n    Librerías\n    pandas\n    scikit-learn\n    geopandas\n    seaborn\n    Optuna\n  \n  \n    ETL & Cloud\n    GCP\n    BigQuery\n    Pipelines Python\n  \n  \n    Visualización\n    Kepler.gl\n    Streamlit\n    Redash\n  \n  \n    Herramientas\n    Git\n    GitHub\n    LaTeX"
   },
   {
     "objectID": "index-es.html#certificaciones",
     "href": "index-es.html#certificaciones",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Certificaciones",
     "text": "Certificaciones\n\nDeep Learning Specialization — Coursera (Andrew Ng): redes neuronales, optimización, series de tiempo, TensorFlow\nIntroductorio en Ciencia de Datos — Coursera\nDivulgación Científica — Sociedad Matemática Mexicana (2021)\n\n\n\n  \n    Yeison Buitrago\n    · Científico de Datos · Bogotá, Colombia\n  \n  \n    ✉ buitragolopezyeison@gmail.com\n    GitHub\n    LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "",
-    "text": "Vol. I · No. 1\n    Saturday, April 11, 2026\n    Bogotá · 18°C\n  \n  \n  \"All the Data That's Fit to Model\""
+    "text": "Vol. I · No. 1\n    Saturday, April 11, 2026\n    Bogotá · 18°C\n  \n  \n  Data Science · Statistics · Bogotá"
   },
   {
     "objectID": "index.html#professional-experience",
     "href": "index.html#professional-experience",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Professional Experience",
     "text": "Professional Experience\nHabi Colombia — Mid Data Scientist Aug 2025 – Present\nDesign and deployment of price elasticity models across the offer portfolio. Bayesian experimentation with custom experimental design to increase contribution margin. Redesign of reference price data sources to improve client value proposition.\nHabi Colombia — Junior Data Scientist Mar 2024 – Aug 2025\nAutomation and production deployment of geospatial pipelines in Python and BigQuery (GCP). Predictive models on real estate data for bank credit origination. Introduction of A/B testing as an organizational practice; stakeholder communication via dashboards.\nFrubana Colombia — Demand Planning Specialist Nov 2022 – Feb 2024\nDemand forecasting models over thousands of SKUs at a mass-consumption company (Python + SQL). Internal tool for supply chain analysts to detect atypical demand patterns."
   },
   {
     "objectID": "index.html#research-projects",
     "href": "index.html#research-projects",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Research Projects",
     "text": "Research Projects\n\n\n  \n    \n    \n      \n        Geospatial\n        Statistics\n        Python\n        Public Policy\n      \n      VIS Housing Segregation in Bogotá\n      Research on how Social Interest Housing contributes to urban segregation in Bogotá. Dissimilarity indices, Moran's I spatial autocorrelation, and interactive maps with Kepler.gl.\n      View project →\n    \n  \n\n  \n    \n    \n      \n        NLP\n        LLMs\n        Automation\n        Python\n        LaTeX\n      \n      AI-Powered CV Updater\n      A tool that takes a job posting and automatically updates a LaTeX CV using a language model — reducing to seconds what otherwise takes hours.\n      View project →"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Education",
     "text": "Education\nUniversidad Nacional de Colombia — Statistics Specialization   2025 – 2026\nUniversidad Distrital Francisco José de Caldas — B.Sc. Mathematics   2017 – 2022 Honor roll (4 consecutive semesters, Top 10%)"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Technical Skills",
     "text": "Technical Skills\n\n  \n    Languages\n    Python\n    SQL\n    BigQuery\n  \n  \n    ML & Stats\n    Predictive models\n    Bayesian A/B testing\n    Price elasticity\n    Inferential statistics\n  \n  \n    Libraries\n    pandas\n    scikit-learn\n    geopandas\n    seaborn\n    Optuna\n  \n  \n    ETL & Cloud\n    GCP\n    BigQuery\n    Python pipelines\n  \n  \n    Visualization\n    Kepler.gl\n    Streamlit\n    Redash\n  \n  \n    Tools\n    Git\n    GitHub\n    LaTeX"
   },
   {
     "objectID": "index.html#certifications",
     "href": "index.html#certifications",
-    "title": "The Yeison Times",
+    "title": "Yeison Buitrago",
     "section": "Certifications",
     "text": "Certifications\n\nDeep Learning Specialization — Coursera (Andrew Ng): neural networks, optimization, time series, TensorFlow\nIntroduction to Data Science — Coursera\nScience Communication — Sociedad Matemática Mexicana (2021)\n\n\n\n  \n    Yeison Buitrago\n    · Data Scientist · Bogotá, Colombia\n  \n  \n    ✉ buitragolopezyeison@gmail.com\n    GitHub\n    LinkedIn"
   },

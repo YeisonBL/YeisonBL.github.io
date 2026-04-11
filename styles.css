@@ -65,13 +65,13 @@ body::before {
 .masthead-top .locale   { text-align: right;  flex: 1; }
 
 .masthead-title {
-  font-family: 'UnifrakturCook', 'Playfair Display', serif;
-  font-weight: 700;
-  font-size: 4.8rem;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 900;
+  font-size: 4.2rem;
   line-height: 1;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
   color: var(--nyt-dark);
-  margin: 0.2rem 0 0.4rem;
+  margin: 0.3rem 0 0.5rem;
   border: none !important;
 }
 
