@@ -4,6 +4,19 @@ page-layout: article
 toc: false
 ---
 
+```{=html}
+<header class="masthead">
+  <div class="masthead-top">
+    <span class="edition">Vol. I · N.º 1</span>
+    <span class="date">Sábado, 11 de abril de 2026</span>
+    <span class="locale">Bogotá · 18°C</span>
+  </div>
+  <h1 class="masthead-title">The Yeison Times</h1>
+  <div class="masthead-tagline">"Todos los datos dignos de ser modelados"</div>
+  <div class="masthead-rule"></div>
+</header>
+```
+
 ::: {.author-header}
 
 ::: {.author-photo}
@@ -11,11 +24,11 @@ toc: false
 :::
 
 ::: {.author-info}
+[Portafolio de Ciencia de Datos]{.kicker}
+
 # Yeison Armando Buitrago López
 
-**Científico de Datos**
-
-Habi Colombia · Especialización en Estadística, UNAL
+[Por **YEISON BUITRAGO** · Científico de Datos en Habi Colombia · Especialización en Estadística, UNAL]{.byline}
 
 ::: {.contact-links}
 [✉ Email](mailto:buitragolopezyeison@gmail.com)
@@ -26,11 +39,9 @@ Habi Colombia · Especialización en Estadística, UNAL
 
 :::
 
----
-
+::: {.lede}
 Soy Científico de Datos con base en Bogotá, Colombia, especializado en la intersección entre estadística, machine learning y problemas de negocio concretos. Actualmente en **Habi**, donde diseño modelos de elasticidad de precios y experimentos A/B para el mercado inmobiliario colombiano. Me formé como **Matemático en la Universidad Distrital FJC** y curso una **Especialización en Estadística en la Universidad Nacional de Colombia**.
-
----
+:::
 
 ## Experiencia profesional
 
